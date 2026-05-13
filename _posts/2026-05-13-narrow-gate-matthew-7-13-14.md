@@ -7,6 +7,7 @@ tags: [narrow-gate, sermon-on-the-mount, matthew-7, salvation, kingdom]
 description: "Matthew 7:13-14 is the closing argument of the Sermon on the Mount. Jesus said most people are on the wrong road. Here's what that means."
 author: "Michael Burrage"
 show_ads: true
+image: /assets/images/narrow-gate-matthew-7-13-14.jpg
 ---
 
 The Sermon on the Mount ends with four rapid-fire contrasts: two gates/two roads, two trees, two professions of faith, two foundations. They are the closing argument of the greatest sustained discourse in the New Testament, and they are not gentle.

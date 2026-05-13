@@ -7,6 +7,7 @@ tags: [kingdom-mindset, positive-thinking, philippians-4, worldview, transformat
 description: "Kingdom mindset and positive thinking both change behavior, but from completely different engines. Here is why the difference matters more than you think."
 author: "Michael Burrage"
 show_ads: true
+image: /assets/images/kingdom-mindset-vs-positive-thinking.jpg
 ---
 
 On the surface, the two sound similar. Both involve how you think. Both shape how you respond to difficulty. Both produce measurable changes in behavior and outlook. If you squint, you might conclude that Kingdom mindset is just the Christian version of positive thinking — a religious rebranding of what Norman Vincent Peale figured out in the 1950s.

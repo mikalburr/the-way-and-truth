@@ -7,6 +7,7 @@ tags: [parables, sower, mark-4, matthew-13, kingdom]
 description: "Jesus explained the Parable of the Sower himself. Most people still miss what it demands. A close reading of Mark 4 and Matthew 13."
 author: "Michael Burrage"
 show_ads: true
+image: /assets/images/parable-of-the-sower-explained.jpg
 ---
 
 The Parable of the Sower is unique among Jesus's parables for one reason that should stop us cold: Jesus explains it. He doesn't leave the interpretation to the listener. He provides the key. And yet — perhaps because the explanation seems too straightforward — most people still miss what is actually being said.

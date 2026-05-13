@@ -7,6 +7,7 @@ tags: [mark 1:15, kingdom of god is at hand, kingdom theology, jesus teaching]
 description: "When Jesus said 'the Kingdom of God is at hand,' his Jewish audience heard something political and immediate. Here's what engiken actually means and why it matters."
 author: "Michael Burrage"
 show_ads: true
+image: /assets/images/kingdom-is-at-hand-mark-1-15.jpg
 ---
 
 "The time is fulfilled, and the kingdom of God is at hand; repent and believe in the gospel." (Mark 1:15, ESV)

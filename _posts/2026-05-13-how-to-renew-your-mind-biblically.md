@@ -7,6 +7,7 @@ tags: [mind renewal, romans 12, transformation, kingdom mindset]
 description: "Romans 12:2 isn't about positive thinking. It's a call to align your perception with Kingdom reality through metamorphosis. Here's how it works."
 author: "Michael Burrage"
 show_ads: true
+image: /assets/images/how-to-renew-your-mind-biblically.jpg
 ---
 
 Most men who read Romans 12:2 treat it like a self-help verse. They underline it, add it to a motivational rotation, maybe put it on a phone wallpaper. And then nothing changes. Because they've misread what the verse is actually commanding.

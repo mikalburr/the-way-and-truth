@@ -7,6 +7,7 @@ tags: [bible-study, gospels, greek-interlinear, kingdom-of-god, method]
 description: "A rigorous four-step method for studying Jesus's words: reading only the Gospels, tracking Kingdom language, using Greek tools, and asking the right questions."
 author: "Michael Burrage"
 show_ads: true
+image: /assets/images/how-to-study-the-teachings-of-jesus-a-method-for-serious-believers.jpg
 ---
 
 Most Christians have never read the Gospels straight through with sustained attention. They have encountered the Gospels in fragments — Sunday readings, devotional snippets, verse-of-the-day apps, topical sermons that use a Gospel passage as a launching pad before heading somewhere else entirely.

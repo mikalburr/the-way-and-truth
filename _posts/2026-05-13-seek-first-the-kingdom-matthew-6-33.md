@@ -7,6 +7,7 @@ tags: [matthew 6:33, seek first the kingdom, kingdom priority, jesus teaching]
 description: "Matthew 6:33 isn't a promise about getting stuff. It's a radical statement about the economics of Kingdom priority. Here's what Jesus actually meant."
 author: "Michael Burrage"
 show_ads: true
+image: /assets/images/seek-first-the-kingdom-matthew-6-33.jpg
 ---
 
 "But seek first the kingdom of God and his righteousness, and all these things will be added to you." (Matthew 6:33, ESV)

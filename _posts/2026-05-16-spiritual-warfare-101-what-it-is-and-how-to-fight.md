@@ -7,6 +7,7 @@ tags: [spiritual-warfare, ephesians-6, armor-of-god, prayer, kingdom]
 description: "Spiritual warfare defined from Ephesians 6:10-20. What it is, who the enemy is, and how to fight with the full armor of God."
 author: "Michael Burrage"
 show_ads: true
+image: /assets/images/spiritual-warfare-101-what-it-is-and-how-to-fight.jpg
 ---
 
 Every man who has ever tried to live seriously for God has felt it — the resistance. You make a decision to lead your family well, and conflict erupts. You commit to prayer, and your mind goes blank the moment you sit down. You resolve to walk in integrity at work, and suddenly temptation appears from an angle you never expected. This is not coincidence. This is warfare.

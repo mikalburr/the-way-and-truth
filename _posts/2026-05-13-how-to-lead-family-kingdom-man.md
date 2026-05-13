@@ -7,6 +7,7 @@ tags: [family-leadership, christian-husband, christian-father, spiritual-leaders
 description: "Family leadership isn't control or mere provision. Here's what Scripture says a Kingdom man actually does to lead his household well."
 author: "Michael Burrage"
 show_ads: true
+image: /assets/images/how-to-lead-family-kingdom-man.jpg
 ---
 
 Most men think they are leading their families if they are providing for them financially and showing up most of the time. That is a start. It is not leadership.

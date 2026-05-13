@@ -7,6 +7,7 @@ tags: [lords-prayer, matthew-6, prayer, kingdom, jesus-teaching]
 description: "A verse-by-verse breakdown of the Lord's Prayer in its 1st-century Jewish context — what Jesus actually taught, phrase by phrase."
 author: "Michael Burrage"
 show_ads: true
+image: /assets/images/lords-prayer-verse-by-verse.jpg
 ---
 
 Most Christians have recited the Lord's Prayer hundreds of times. That repetition is also the problem. Familiarity is the enemy of comprehension. When words become liturgical reflex, we stop hearing them. So let's slow down and read Matthew 6:9-13 the way a first-century Jewish disciple would have heard it — as something startling, specific, and demanding.

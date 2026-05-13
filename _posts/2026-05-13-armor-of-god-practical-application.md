@@ -7,6 +7,7 @@ tags: [armor-of-god, ephesians-6, spiritual-warfare, prayer, spiritual-disciplin
 description: "The armor of God isn't a list to memorize — it's a daily practice. Here's how to actually put on each piece every morning before the battle starts."
 author: "Michael Burrage"
 show_ads: true
+image: /assets/images/armor-of-god-practical-application.jpg
 ---
 
 Most men who grew up in church can name the six pieces of armor in Ephesians 6. Belt of truth. Breastplate of righteousness. Shoes of peace. Shield of faith. Helmet of salvation. Sword of the Spirit.

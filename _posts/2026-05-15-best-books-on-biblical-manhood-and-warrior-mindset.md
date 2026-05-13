@@ -7,6 +7,7 @@ tags: [books, biblical-manhood, warrior-mindset, reading-list]
 description: "Reviewed: the five best books on biblical manhood and the warrior mindset — what each gets right, where to be careful, and what to read first."
 author: "Michael Burrage"
 show_ads: true
+image: /assets/images/best-books-on-biblical-manhood-and-warrior-mindset.jpg
 ---
 
 The right book at the right moment can reorient a man's life. The wrong book — or the right book read without discernment — can send him sideways. This list is built for men who want to go deep, not just feel fired up.

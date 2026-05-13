@@ -7,6 +7,7 @@ tags: [money, wealth, mammon, matthew-6, luke-12, kingdom]
 description: "Jesus spoke more about money than almost any other topic. Here's what he actually said — not the prosperity version, not the poverty version."
 author: "Michael Burrage"
 show_ads: true
+image: /assets/images/what-jesus-taught-about-money.jpg
 ---
 
 Jesus talked about money more than he talked about heaven and hell combined. More than prayer. More than faith. Roughly one in ten verses in the Synoptic Gospels touches on money, wealth, or possessions. If you have not wrestled seriously with what Jesus actually taught on this subject, you have a significant blind spot in your understanding of his message.

@@ -7,6 +7,7 @@ tags: [church-tradition, red-letters, tithing, sabbath, teachings-of-jesus]
 description: "Sunday Sabbath, tithing as law, altar calls, the sinner's prayer — Jesus never taught any of these. Trace where each tradition actually came from."
 author: "Michael Burrage"
 show_ads: true
+image: /assets/images/the-teachings-of-jesus-vs-church-tradition-where-they-diverge.jpg
 ---
 
 This article will make some people uncomfortable. That is not the goal, but it is an acceptable cost. The goal is precision — to distinguish between what Jesus of Nazareth actually said and taught, and what the institution of Christianity has layered on top of his words across two thousand years.

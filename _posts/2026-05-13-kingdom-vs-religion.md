@@ -7,6 +7,7 @@ tags: [kingdom of god, religion, myles munroe, kingdom theology]
 description: "Religion is man's attempt to reach God through performance. The Kingdom is God's government breaking into earth. These are not the same thing."
 author: "Michael Burrage"
 show_ads: true
+image: /assets/images/kingdom-vs-religion.jpg
 ---
 
 Myles Munroe spent decades making one argument. He made it in dozens of books, hundreds of sermons, and in front of audiences across six continents. The argument is this: religion and the Kingdom of God are not the same thing. In fact, they are opposites. And confusing them is the source of most of what is wrong with the modern church.

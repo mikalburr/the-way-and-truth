@@ -7,6 +7,7 @@ tags: [spiritual warfare, discipline, biblical manhood, ephesians 6, fasting]
 description: "Jesus was not a passive man. The biblical case for strength, discipline, and the warrior identity of a man walking in Kingdom authority."
 author: "Michael Burrage"
 show_ads: true
+image: /assets/images/christian-warrior-mindset.jpg
 ---
 
 There is a version of Christian manhood that has been so thoroughly domesticated it would be unrecognizable to the men Jesus actually called. Gentle to the point of spinelessness. Conflict-averse to the point of dishonesty. Comfortable, untested, and unwilling to pay the cost of anything that matters.

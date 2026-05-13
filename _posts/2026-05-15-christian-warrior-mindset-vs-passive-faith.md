@@ -7,6 +7,7 @@ tags: [warrior-mindset, passive-faith, biblical-manhood, leadership]
 description: "Passive faith is not humility — it is disobedience dressed in spiritual language. The biblical case for active, engaged, costly faith."
 author: "Michael Burrage"
 show_ads: true
+image: /assets/images/christian-warrior-mindset-vs-passive-faith.jpg
 ---
 
 There is a version of Christian faith that has become so comfortable it no longer resembles anything in the New Testament.

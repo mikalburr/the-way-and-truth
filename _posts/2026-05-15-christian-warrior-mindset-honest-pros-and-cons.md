@@ -7,6 +7,7 @@ tags: [warrior-mindset, biblical-manhood, spiritual-discipline]
 description: "The Christian warrior mindset offers clarity and purpose — but it costs you. An honest look at what you gain and what it demands."
 author: "Michael Burrage"
 show_ads: true
+image: /assets/images/christian-warrior-mindset-honest-pros-and-cons.jpg
 ---
 
 Let me be direct with you from the first sentence: the Christian warrior mindset is not for every man who calls himself a Christian. It is for every man who is willing to take his faith seriously enough to let it cost him something.

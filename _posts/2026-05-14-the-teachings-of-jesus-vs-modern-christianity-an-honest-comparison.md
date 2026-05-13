@@ -7,6 +7,7 @@ tags: [modern-christianity, kingdom-of-god, beatitudes, matthew-7]
 description: "Modern Christianity centers on heaven, moral behavior, and church attendance. Jesus centered on the present Kingdom, love of enemies, and inner transformation."
 author: "Michael Burrage"
 show_ads: true
+image: /assets/images/the-teachings-of-jesus-vs-modern-christianity-an-honest-comparison.jpg
 ---
 
 Let's be honest about the gap.

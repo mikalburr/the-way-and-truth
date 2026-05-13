@@ -7,6 +7,7 @@ tags: [identity in christ, ephesians 1, colossians 3, kingdom identity]
 description: "Identity in Christ isn't a motivational list. It's a theology. Understanding it changes how you operate, not just how you feel. Here's what Scripture actually declares."
 author: "Michael Burrage"
 show_ads: true
+image: /assets/images/who-you-are-in-christ-identity.jpg
 ---
 
 The phrase "identity in Christ" gets used in Christian circles often enough that it's lost most of its force. It's become a kind of spiritual consolation prize — the thing you say to someone who is struggling, alongside "just pray more" and "trust God." It doesn't land because it's been detached from the theology that makes it load-bearing.

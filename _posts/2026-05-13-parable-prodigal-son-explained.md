@@ -7,6 +7,7 @@ tags: [parables, prodigal-son, luke-15, forgiveness, kingdom]
 description: "The parable of the prodigal son is not about the younger brother. Jesus aimed it at the Pharisees. Here's what he was really saying."
 author: "Michael Burrage"
 show_ads: true
+image: /assets/images/parable-prodigal-son-explained.jpg
 ---
 
 The Parable of the Prodigal Son is the most beloved story Jesus ever told. It is also, in most contemporary tellings, a domesticated version of what Luke 15 actually contains. We focus on the younger son — his rebellion, his misery, his homecoming. We linger on the father running down the road. We feel good and go home.

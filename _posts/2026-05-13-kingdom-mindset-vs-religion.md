@@ -7,6 +7,7 @@ tags: [kingdom-mindset, religion, transformation, identity, pharisees]
 description: "Religion demands performance. Kingdom mindset produces transformation. Here is why they are not the same and which one actually changes your life."
 author: "Michael Burrage"
 show_ads: true
+image: /assets/images/kingdom-mindset-vs-religion.jpg
 ---
 
 This is not a subtle distinction. Jesus was not subtle about it. The harshest recorded words he ever spoke were not directed at prostitutes, tax collectors, or Roman soldiers. They were directed at the most religiously observant men of his era — the Pharisees. That fact tells you something essential about the difference between religion and the Kingdom.

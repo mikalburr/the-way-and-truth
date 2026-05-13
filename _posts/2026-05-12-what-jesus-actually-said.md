@@ -7,6 +7,7 @@ tags: [sermon on the mount, beatitudes, red letter, gospels]
 description: "Most Christians know about Jesus. Few have actually sat with what he said. The Sermon on the Mount is where that changes."
 author: "Michael Burrage"
 show_ads: true
+image: /assets/images/what-jesus-actually-said.jpg
 ---
 
 There is a version of Christianity that treats Jesus as the entry point — the one who died so you could get to the God of the Old Testament and the instructions of the apostles. Jesus saves you; then the real curriculum begins.

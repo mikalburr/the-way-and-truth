@@ -7,6 +7,7 @@ tags: [kingdom-mindset, books, myles-munroe, george-eldon-ladd, nt-wright, tony-
 description: "Five serious books on Kingdom mindset, reviewed honestly. Not affiliate spam — genuine guidance for men who want the real theological framework."
 author: "Michael Burrage"
 show_ads: true
+image: /assets/images/best-books-on-kingdom-mindset.jpg
 ---
 
 Most reading lists are assembled by algorithms. This one is not. These five books represent different entry points into the same essential framework: the Kingdom of God as the organizing reality of a Christian man's life. They are not equally accessible, they are not equally academic, and they are not for the same reader at the same moment. That is exactly why they all belong on this list.

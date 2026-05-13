@@ -7,6 +7,7 @@ tags: [kingdom-mindset, beginners, identity, mark-1-15, luke-17, romans-8]
 description: "If you are new to Kingdom mindset, start here. The one truth to grasp first, three questions every citizen must answer, and a first-week reading plan."
 author: "Michael Burrage"
 show_ads: true
+image: /assets/images/kingdom-mindset-for-beginners.jpg
 ---
 
 If you are starting from scratch — no background in Kingdom theology, no framework beyond Sunday school basics, no idea why every sermon you have ever heard feels incomplete — this is where you begin.
@@ -76,3 +77,71 @@ This is the identity chapter. Read it slowly. Let verse 1 land before moving to 
 After seven days of this reading, you will have one of two experiences. Either the material will have disturbed something — created a productive dissonance between what you read and how you have been living — or it will have felt familiar but not transformative. If the former, you are ready to move deeper. If the latter, read it again. The problem is not the text.
 
 Kingdom mindset is not built in a week. But the foundation is accessible in a week. Most men who have been in church their whole lives have never read these passages the way this plan asks you to read them — slowly, attentively, with the question "who am I?" rather than "what should I do?" Try it differently. See what happens.
+
+
+---
+
+## Frequently Asked Questions
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a Kingdom mindset for beginners?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Kingdom mindset begins with one truth: the Kingdom of God is the present reign of God — not a future place you go when you die, but the domain where God's will is already operative. Jesus announced it as 'at hand' (Mark 1:15) and 'in your midst' (Luke 17:21). Every other aspect of Kingdom mindset grows from grasping this. If the Kingdom is real and present, then you are already a citizen of something larger than your circumstances."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need theological training to understand Kingdom mindset?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Jesus taught Kingdom theology to fishermen and tax collectors without requiring seminary prerequisites. The most direct path is reading the Gospel of Mark in one sitting — it is the shortest Gospel and the most action-focused. Pay attention every time Jesus mentions the Kingdom and what he does in connection with it. That single exercise does more for Kingdom understanding than most introductory courses."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What questions should every Kingdom citizen be able to answer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Three foundational questions define Kingdom identity: Who is the King? (The answer determines your ultimate authority.) What is the Kingdom? (Present reality, not future destination.) Who am I in it? (A citizen and heir, not a subject earning favor.) Most Christians can answer the first question but have not seriously grappled with the second and third. The second and third are where Kingdom mindset actually changes how you live."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is Kingdom mindset different from just being spiritual?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Spirituality is often about personal peace, inner experience, and individual connection to God. Kingdom mindset is political in the original sense — it is about a King, a domain, a citizenship, and a mission. Jesus did not announce inner peace; he announced a Kingdom. That distinction matters because it changes the orientation from inward (what am I experiencing?) to outward (what is the King doing and how do I align with it?)."
+      }
+    }
+  ]
+}
+</script>
+
+
+<details>
+<summary><strong>What is a Kingdom mindset for beginners?</strong></summary>
+<p>A Kingdom mindset begins with one truth: the Kingdom of God is the present reign of God — not a future place you go when you die, but the domain where God's will is already operative. Jesus announced it as 'at hand' (Mark 1:15) and 'in your midst' (Luke 17:21). Every other aspect of Kingdom mindset grows from grasping this. If the Kingdom is real and present, then you are already a citizen of something larger than your circumstances.</p>
+</details>
+
+<details>
+<summary><strong>Do I need theological training to understand Kingdom mindset?</strong></summary>
+<p>No. Jesus taught Kingdom theology to fishermen and tax collectors without requiring seminary prerequisites. The most direct path is reading the Gospel of Mark in one sitting — it is the shortest Gospel and the most action-focused. Pay attention every time Jesus mentions the Kingdom and what he does in connection with it. That single exercise does more for Kingdom understanding than most introductory courses.</p>
+</details>
+
+<details>
+<summary><strong>What questions should every Kingdom citizen be able to answer?</strong></summary>
+<p>Three foundational questions define Kingdom identity: Who is the King? (The answer determines your ultimate authority.) What is the Kingdom? (Present reality, not future destination.) Who am I in it? (A citizen and heir, not a subject earning favor.) Most Christians can answer the first question but have not seriously grappled with the second and third. The second and third are where Kingdom mindset actually changes how you live.</p>
+</details>
+
+<details>
+<summary><strong>How is Kingdom mindset different from just being spiritual?</strong></summary>
+<p>Spirituality is often about personal peace, inner experience, and individual connection to God. Kingdom mindset is political in the original sense — it is about a King, a domain, a citizenship, and a mission. Jesus did not announce inner peace; he announced a Kingdom. That distinction matters because it changes the orientation from inward (what am I experiencing?) to outward (what is the King doing and how do I align with it?).</p>
+</details>

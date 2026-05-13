@@ -7,6 +7,7 @@ tags: [physical-training, spiritual-formation, discipline, stewardship, body]
 description: "Paul says bodily training has value. Here's the full verse — and the real connection between physical discipline and spiritual self-governance every man needs to understand."
 author: "Michael Burrage"
 show_ads: true
+image: /assets/images/physical-training-spiritual-formation.jpg
 ---
 
 Every gym culture loves to quote 1 Timothy 4:8 — but usually only the first half.

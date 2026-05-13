@@ -7,6 +7,7 @@ tags: [beginners, gospel-of-mark, sermon-on-the-mount, john-14-17, getting-start
 description: "Start with Mark, then Matthew 5-7, then John 14-17. A clear reading order for anyone who wants to encounter Jesus's words directly for the first time."
 author: "Michael Burrage"
 show_ads: true
+image: /assets/images/the-teachings-of-jesus-for-complete-beginners-where-to-start.jpg
 ---
 
 If you have never read the Gospels straight through — or if you have read them but always through someone else's filter — this article is for you. No assumed theology. No prerequisites. Just the most direct path into the words of Jesus for someone starting from zero.

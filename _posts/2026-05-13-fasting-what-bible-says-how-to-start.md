@@ -7,6 +7,7 @@ tags: [fasting, prayer, spiritual-discipline, scripture, christian-practice]
 description: "Jesus assumed you would fast. Here's what the Bible actually says about fasting, its three types, and how to start — beginning with 24 hours."
 author: "Michael Burrage"
 show_ads: true
+image: /assets/images/fasting-what-bible-says-how-to-start.jpg
 ---
 
 Jesus did not say *if* you fast. He said *when*.

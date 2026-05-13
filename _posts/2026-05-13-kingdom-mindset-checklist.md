@@ -7,6 +7,7 @@ tags: [kingdom-mindset, self-assessment, identity, spiritual-growth, discipleshi
 description: "A 20-question self-assessment across 5 categories to diagnose where your Kingdom mindset actually stands. Honest and challenging — not a feel-good quiz."
 author: "Michael Burrage"
 show_ads: true
+image: /assets/images/kingdom-mindset-checklist.jpg
 ---
 
 A checklist is only useful if it tells you the truth. The goal of this assessment is not to make you feel good about where you are. It is to give you an accurate picture of where you are operating from — Kingdom identity or something else — so you know where the work needs to happen.

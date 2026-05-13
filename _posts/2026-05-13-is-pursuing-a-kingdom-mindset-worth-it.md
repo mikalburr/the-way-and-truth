@@ -7,6 +7,7 @@ tags: [kingdom-mindset, discipleship, cost-of-following-jesus, transformation]
 description: "Is the Kingdom mindset worth the cost? An honest answer about what it demands, what it disrupts, and why it is still worth everything."
 author: "Michael Burrage"
 show_ads: true
+image: /assets/images/is-pursuing-a-kingdom-mindset-worth-it.jpg
 ---
 
 Most men who find their way to this question are already suspicious of easy answers. They have sat through enough motivational sermons to know that "just shift your mindset" is not a theology — it is a sales pitch. So let me be direct: pursuing a Kingdom mindset is not easy, it is not quick, and it will cost you things you did not expect to pay. It will also be the most significant reorientation of your life. Both of those statements are true, and you deserve to hear both before you decide.

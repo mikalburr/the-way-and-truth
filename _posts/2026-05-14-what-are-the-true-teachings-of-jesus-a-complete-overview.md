@@ -7,6 +7,7 @@ tags: [kingdom-of-god, sermon-on-the-mount, gospel, teachings-of-jesus]
 description: "Jesus's primary message was the Kingdom of God — not sin management. A complete overview of his major teaching blocks and why 'true teachings' matters."
 author: "Michael Burrage"
 show_ads: true
+image: /assets/images/what-are-the-true-teachings-of-jesus-a-complete-overview.jpg
 ---
 
 There is a version of Jesus being preached in most Western churches that is essentially a sin-management consultant. Come to him when you've failed. Confess. Get forgiveness. Try again next week. Repeat until death, at which point you receive the prize: heaven.
@@ -98,3 +99,71 @@ If you want to know what Jesus actually taught, there is no shortcut: read the G
 The tradition, the theology, the commentary — all of it has its place, and this site will engage it rigorously. But it is all secondary. Jesus himself said his sheep hear his voice (John 10:27). The prerequisite is listening to him directly.
 
 Start there. Everything else follows.
+
+
+---
+
+## Frequently Asked Questions
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the core teachings of Jesus Christ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Jesus's central teaching is the Kingdom of God — its present reality, its demands, and its invitation. The Sermon on the Mount (Matthew 5-7) is his most comprehensive statement of Kingdom ethics: who Kingdom citizens are (the Beatitudes), what righteousness looks like in the Kingdom (intensifications of the law), and how to relate to God within the Kingdom (prayer, fasting, giving). Everything else in his teaching — parables, healings, confrontations — circles this center."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What did Jesus teach about how to live?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Jesus taught that Kingdom living begins with a fundamental reorientation — repentance (metanoia), which means a change of mind and direction. He described his disciples as those who hear and do his words (Matthew 7:24-27). The Sermon on the Mount lays out the character qualities, ethics, and practices he expected: humility, mercy, purity of heart, peacemaking, love of enemies, non-anxious trust in God's provision, and prayer that aligns with God's will rather than personal wish fulfillment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do Jesus's teachings differ from Old Testament law?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Jesus did not abolish the law but fulfilled it and intensified it (Matthew 5:17-20). He pushed past external behavior to internal reality: not just 'don't murder' but 'don't harbor anger'; not just 'don't commit adultery' but 'don't cultivate lust.' His concern is the heart, not compliance. He also shifted the motivation from law-keeping to love — the Great Commandment (Matthew 22:37-40) sums all the law as love of God and neighbor, which changes the entire frame from obligation to relationship."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why do Jesus's teachings seem different from much modern preaching?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Jesus's actual teachings — the Sermon on the Mount, the parables of the Kingdom, his confrontations with religious leaders — are demanding, uncomfortable, and countercultural. Much modern preaching softens this by selective emphasis (comfort passages without cost passages), cultural accommodation, or prosperity theology that Jesus explicitly rejected. Reading the red letters of the Gospels directly, without a mediating tradition, is usually the fastest way to see the gap."
+      }
+    }
+  ]
+}
+</script>
+
+
+<details>
+<summary><strong>What are the core teachings of Jesus Christ?</strong></summary>
+<p>Jesus's central teaching is the Kingdom of God — its present reality, its demands, and its invitation. The Sermon on the Mount (Matthew 5-7) is his most comprehensive statement of Kingdom ethics: who Kingdom citizens are (the Beatitudes), what righteousness looks like in the Kingdom (intensifications of the law), and how to relate to God within the Kingdom (prayer, fasting, giving). Everything else in his teaching — parables, healings, confrontations — circles this center.</p>
+</details>
+
+<details>
+<summary><strong>What did Jesus teach about how to live?</strong></summary>
+<p>Jesus taught that Kingdom living begins with a fundamental reorientation — repentance (metanoia), which means a change of mind and direction. He described his disciples as those who hear and do his words (Matthew 7:24-27). The Sermon on the Mount lays out the character qualities, ethics, and practices he expected: humility, mercy, purity of heart, peacemaking, love of enemies, non-anxious trust in God's provision, and prayer that aligns with God's will rather than personal wish fulfillment.</p>
+</details>
+
+<details>
+<summary><strong>How do Jesus's teachings differ from Old Testament law?</strong></summary>
+<p>Jesus did not abolish the law but fulfilled it and intensified it (Matthew 5:17-20). He pushed past external behavior to internal reality: not just 'don't murder' but 'don't harbor anger'; not just 'don't commit adultery' but 'don't cultivate lust.' His concern is the heart, not compliance. He also shifted the motivation from law-keeping to love — the Great Commandment (Matthew 22:37-40) sums all the law as love of God and neighbor, which changes the entire frame from obligation to relationship.</p>
+</details>
+
+<details>
+<summary><strong>Why do Jesus's teachings seem different from much modern preaching?</strong></summary>
+<p>Jesus's actual teachings — the Sermon on the Mount, the parables of the Kingdom, his confrontations with religious leaders — are demanding, uncomfortable, and countercultural. Much modern preaching softens this by selective emphasis (comfort passages without cost passages), cultural accommodation, or prosperity theology that Jesus explicitly rejected. Reading the red letters of the Gospels directly, without a mediating tradition, is usually the fastest way to see the gap.</p>
+</details>

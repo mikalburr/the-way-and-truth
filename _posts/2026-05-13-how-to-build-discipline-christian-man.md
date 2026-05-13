@@ -7,6 +7,7 @@ tags: [discipline, self-control, stewardship, spiritual-formation, christian-man
 description: "Biblical discipline is stewardship, not self-punishment. Here's the framework for building real discipline across body, time, thought, and finances."
 author: "Michael Burrage"
 show_ads: true
+image: /assets/images/how-to-build-discipline-christian-man.jpg
 ---
 
 Most men understand discipline as willpower — white-knuckling through discomfort until they either succeed or quit. That framework fails eventually. It always does. Willpower is a finite resource. When stress rises, sleep drops, or life gets complicated, pure grit runs out.
@@ -115,3 +116,71 @@ That is the man God is building in you. Your job is to cooperate with the proces
 Start tomorrow morning. Not later. Tomorrow morning, before the phone, before the news, before the demands of other people's urgencies — give the first of your day to the One who gave you the day.
 
 Everything else grows from there.
+
+
+---
+
+## Frequently Asked Questions
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does the Bible say about discipline?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Bible treats discipline as stewardship, not self-punishment. Paul writes, 'I discipline my body and keep it under control' (1 Corinthians 9:27), using athletic imagery — he is training for a purpose, not inflicting pain for its own sake. Hebrews 12:11 acknowledges that discipline 'seems painful rather than pleasant, but later it yields the peaceful fruit of righteousness.' The framework is purposeful investment in becoming who God designed you to be, with a clear destination in view."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do Christian men build self-discipline?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Biblical discipline works across four domains: body (physical stewardship and fasting), time (first fruits of the day given to God before distraction), thought (the renewing of the mind in Romans 12:2), and finances (generosity that breaks the hold of money). Starting with the body is strategic — a man who learns to govern his physical appetites develops a transferable capacity for self-governance in every other domain. Small, consistent commitments build the discipline muscle that willpower alone cannot sustain."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is discipline a sign of not trusting God's grace?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Paul's discipline of his body in 1 Corinthians 9 follows his discussion of running the race to win — and Paul is the same man who wrote the most extensive theology of grace in the New Testament. Grace covers our failures; it does not eliminate our responsibility to steward what God has given us. A man who uses grace as a reason not to develop discipline has misread both grace and stewardship. Grace is the foundation, not the excuse."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between discipline and legalism?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Legalism is discipline for approval — doing things to earn standing with God or people. Biblical discipline is discipline from identity — ordering your life as a response to who you already are in Christ, not as a way to earn that identity. The motivation is completely different, and the fruit is different. Legalism produces pride when you succeed and shame when you fail. Identity-based discipline produces fruit, and its failure produces course correction without condemnation."
+      }
+    }
+  ]
+}
+</script>
+
+
+<details>
+<summary><strong>What does the Bible say about discipline?</strong></summary>
+<p>The Bible treats discipline as stewardship, not self-punishment. Paul writes, 'I discipline my body and keep it under control' (1 Corinthians 9:27), using athletic imagery — he is training for a purpose, not inflicting pain for its own sake. Hebrews 12:11 acknowledges that discipline 'seems painful rather than pleasant, but later it yields the peaceful fruit of righteousness.' The framework is purposeful investment in becoming who God designed you to be, with a clear destination in view.</p>
+</details>
+
+<details>
+<summary><strong>How do Christian men build self-discipline?</strong></summary>
+<p>Biblical discipline works across four domains: body (physical stewardship and fasting), time (first fruits of the day given to God before distraction), thought (the renewing of the mind in Romans 12:2), and finances (generosity that breaks the hold of money). Starting with the body is strategic — a man who learns to govern his physical appetites develops a transferable capacity for self-governance in every other domain. Small, consistent commitments build the discipline muscle that willpower alone cannot sustain.</p>
+</details>
+
+<details>
+<summary><strong>Is discipline a sign of not trusting God's grace?</strong></summary>
+<p>No. Paul's discipline of his body in 1 Corinthians 9 follows his discussion of running the race to win — and Paul is the same man who wrote the most extensive theology of grace in the New Testament. Grace covers our failures; it does not eliminate our responsibility to steward what God has given us. A man who uses grace as a reason not to develop discipline has misread both grace and stewardship. Grace is the foundation, not the excuse.</p>
+</details>
+
+<details>
+<summary><strong>What is the difference between discipline and legalism?</strong></summary>
+<p>Legalism is discipline for approval — doing things to earn standing with God or people. Biblical discipline is discipline from identity — ordering your life as a response to who you already are in Christ, not as a way to earn that identity. The motivation is completely different, and the fruit is different. Legalism produces pride when you succeed and shame when you fail. Identity-based discipline produces fruit, and its failure produces course correction without condemnation.</p>
+</details>

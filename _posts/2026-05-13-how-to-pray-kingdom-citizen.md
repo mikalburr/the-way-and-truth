@@ -7,6 +7,7 @@ tags: [prayer, lords prayer, kingdom prayer, matthew 6]
 description: "Kingdom prayer isn't petition management. It's alignment with what's already true. Here's how to read the Lord's Prayer through a Kingdom lens and actually pray it."
 author: "Michael Burrage"
 show_ads: true
+image: /assets/images/how-to-pray-kingdom-citizen.jpg
 ---
 
 Most men either don't pray or don't find prayer particularly effective. Both problems usually trace to the same root: a fundamental misunderstanding of what prayer is for.

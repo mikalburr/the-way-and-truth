@@ -7,6 +7,7 @@ tags: [great-commandment, love, shema, matthew-22, law]
 description: "The Great Commandment is not a feel-good summary. It is the Shema — the Jewish core confession — applied with radical force. Here's what it means."
 author: "Michael Burrage"
 show_ads: true
+image: /assets/images/great-commandment-matthew-22-37-40.jpg
 ---
 
 The Great Commandment is so familiar it has become wallpaper. Love God, love your neighbor — pastors say it, Christians nod, and everyone moves on without sitting with what Jesus actually claimed. He said that *all the law and the prophets hang on these two commandments* (Matthew 22:40). That is either the most important thing ever said about ethics, or it is a throwaway remark.

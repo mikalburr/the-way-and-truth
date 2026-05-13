@@ -7,6 +7,7 @@ tags: [warrior-mindset, discipline, identity, kingdom]
 description: "What Christian and secular warrior cultures share, where they diverge, and why secular warrior culture needs a King to serve to become complete."
 author: "Michael Burrage"
 show_ads: true
+image: /assets/images/christian-warrior-mindset-vs-secular-warrior-culture.jpg
 ---
 
 Jocko Willink is right about discipline. He is right about ownership. He is right about getting up before the sun and doing the hard thing before the world asks you to. If you have read *Extreme Ownership* or *Discipline Equals Freedom*, you know that Jocko's framework produces results. Real results. Men who read him and apply him become more effective, more focused, and more capable.

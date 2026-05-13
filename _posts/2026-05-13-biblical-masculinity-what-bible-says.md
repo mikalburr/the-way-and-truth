@@ -7,6 +7,7 @@ tags: [biblical-masculinity, manhood, scripture, christian-men, character]
 description: "Not a culture-war article — a textual one. What does Scripture actually say about being a man? The answer is more demanding and more beautiful than either side admits."
 author: "Michael Burrage"
 show_ads: true
+image: /assets/images/biblical-masculinity-what-bible-says.jpg
 ---
 
 The culture war over masculinity has produced two bad options.
@@ -102,3 +103,71 @@ The Biblical model of manhood is not a relic. It is not a culture-war talking po
 The question is not whether the culture approves of it. The question is whether you will build it.
 
 Start there. Build the character. The culture can catch up.
+
+
+---
+
+## Frequently Asked Questions
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does the Bible say about masculinity?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Bible presents masculinity primarily through character rather than cultural performance. The consistent portrait across both Testaments is one of strength in service — men who are capable of force (David, Nehemiah, Paul) but deploy it in protection, provision, and righteousness rather than domination. Jesus himself, who is the fullest expression of humanity, combined absolute authority with foot-washing, weeping at a tomb, and confronting religious hypocrisy directly. Biblical manhood is strength under Kingdom purpose."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the Bible's view of masculinity outdated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The question assumes that cultural novelty is a measure of truth. What the Bible describes — strength, courage, responsibility, service, and self-governance — are not products of a particular historical moment. They correspond to something durable about what men are for. The cultural debate about masculinity is largely an argument between two extremes: domination on one side, passivity on the other. Scripture offers a third option that neither camp talks about much — strength in service of others, authority exercised as stewardship."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Scripture define a man's role in the family?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ephesians 5:25-28 gives the governing framework: husbands are to love their wives 'as Christ loved the church and gave himself up for her.' The model is sacrificial, not dominating. The man absorbs cost for his family's flourishing rather than extracting benefit. He covers, provides, protects, and leads — not by demanding compliance but by demonstrating the kind of love that produces trust. This is a higher bar than either traditional patriarchy or its opposite."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can a man be strong and gentle at the same time?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes — this is exactly what the New Testament describes. The Greek word for meek (praus) described a war horse: maximum power under disciplined control. Jesus was meek (Matthew 11:29) and also cleared the temple with a whip he made himself (John 2:15). Gentleness in Scripture is not weakness or conflict-avoidance — it is power that does not need to assert itself for its own sake. A man who is gentle without any strength is not exhibiting biblical meekness; he is avoiding the risk of leadership."
+      }
+    }
+  ]
+}
+</script>
+
+
+<details>
+<summary><strong>What does the Bible say about masculinity?</strong></summary>
+<p>The Bible presents masculinity primarily through character rather than cultural performance. The consistent portrait across both Testaments is one of strength in service — men who are capable of force (David, Nehemiah, Paul) but deploy it in protection, provision, and righteousness rather than domination. Jesus himself, who is the fullest expression of humanity, combined absolute authority with foot-washing, weeping at a tomb, and confronting religious hypocrisy directly. Biblical manhood is strength under Kingdom purpose.</p>
+</details>
+
+<details>
+<summary><strong>Is the Bible's view of masculinity outdated?</strong></summary>
+<p>The question assumes that cultural novelty is a measure of truth. What the Bible describes — strength, courage, responsibility, service, and self-governance — are not products of a particular historical moment. They correspond to something durable about what men are for. The cultural debate about masculinity is largely an argument between two extremes: domination on one side, passivity on the other. Scripture offers a third option that neither camp talks about much — strength in service of others, authority exercised as stewardship.</p>
+</details>
+
+<details>
+<summary><strong>How does Scripture define a man's role in the family?</strong></summary>
+<p>Ephesians 5:25-28 gives the governing framework: husbands are to love their wives 'as Christ loved the church and gave himself up for her.' The model is sacrificial, not dominating. The man absorbs cost for his family's flourishing rather than extracting benefit. He covers, provides, protects, and leads — not by demanding compliance but by demonstrating the kind of love that produces trust. This is a higher bar than either traditional patriarchy or its opposite.</p>
+</details>
+
+<details>
+<summary><strong>Can a man be strong and gentle at the same time?</strong></summary>
+<p>Yes — this is exactly what the New Testament describes. The Greek word for meek (praus) described a war horse: maximum power under disciplined control. Jesus was meek (Matthew 11:29) and also cleared the temple with a whip he made himself (John 2:15). Gentleness in Scripture is not weakness or conflict-avoidance — it is power that does not need to assert itself for its own sake. A man who is gentle without any strength is not exhibiting biblical meekness; he is avoiding the risk of leadership.</p>
+</details>

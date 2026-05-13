@@ -7,6 +7,7 @@ tags: [kingdom of god, identity, mindset, foundations]
 description: "Kingdom mindset isn't a self-help concept. It's the operating framework Jesus taught — a present reality that changes how you see everything."
 author: "Michael Burrage"
 show_ads: true
+image: /assets/images/what-is-kingdom-mindset.jpg
 ---
 
 Most people hear "Kingdom mindset" and think motivational content with Bible verses. That is not what this is. The Kingdom of God is the central subject of Jesus's entire public ministry — and understanding what he actually meant by it changes the frame through which you see everything else.

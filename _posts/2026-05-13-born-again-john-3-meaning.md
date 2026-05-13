@@ -7,6 +7,7 @@ tags: [born-again, john-3, nicodemus, spirit, new-birth]
 description: "What did Jesus actually mean by 'born again' in John 3? The Greek anothen, the Jewish context, and what this demands of a modern reader."
 author: "Michael Burrage"
 show_ads: true
+image: /assets/images/born-again-john-3-meaning.jpg
 ---
 
 "Born again" is one of the most familiar phrases in American religious vocabulary. It is also one of the most emptied. Through four decades of political association, bumper-sticker theology, and cultural shorthand, the phrase has been stripped of the specific, confrontational content Jesus gave it in John 3.
