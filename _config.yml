@@ -28,6 +28,16 @@ adsense:
     sidebar: "XXXXXXXXXX"
     footer: "XXXXXXXXXX"
 
+google_analytics:
+  enabled: false
+  measurement_id: "G-XXXXXXXXXX"
+
+locale: "en_US"
+timezone: "America/New_York"
+og_image: "/assets/images/og-default.svg"
+social:
+  twitter: ""
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag

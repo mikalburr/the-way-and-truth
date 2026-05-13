@@ -1,0 +1,14 @@
+{% assign share_url = page.url | prepend: site.url | url_encode %}
+{% assign share_title = page.title | url_encode %}
+<div class="social-share" aria-label="Share this article">
+  <a class="share-btn share-btn--twitter"
+     href="https://twitter.com/intent/tweet?url={{ share_url }}&text={{ share_title }}"
+     target="_blank" rel="noopener noreferrer">
+    ✕ Share
+  </a>
+  <a class="share-btn share-btn--facebook"
+     href="https://www.facebook.com/sharer/sharer.php?u={{ share_url }}"
+     target="_blank" rel="noopener noreferrer">
+    f Share
+  </a>
+</div>

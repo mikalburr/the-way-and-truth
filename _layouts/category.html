@@ -10,9 +10,11 @@ layout: default
   </header>
 
   {% assign cat_posts = site.posts | where_exp: "post", "post.categories contains page.category_slug" %}
+  {% assign display_limit = page.limit | default: 20 %}
   {% if cat_posts.size > 0 %}
+  <p class="category-count">{{ cat_posts.size }} article{% if cat_posts.size != 1 %}s{% endif %}</p>
   <div class="post-list">
-    {% for post in cat_posts limit:10 %}
+    {% for post in cat_posts limit: display_limit %}
     <article class="post-card">
       <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
       <p class="post-meta">
@@ -28,6 +30,9 @@ layout: default
     </article>
     {% endfor %}
   </div>
+  {% if cat_posts.size > display_limit %}
+  <p class="category-more">Showing {{ display_limit }} of {{ cat_posts.size }} articles. Add <code>limit: N</code> to this category's front matter to show more.</p>
+  {% endif %}
   {% else %}
   <p>Articles coming soon. Check back shortly.</p>
   {% endif %}
