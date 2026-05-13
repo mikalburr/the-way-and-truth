@@ -74,6 +74,71 @@ The Father is watching the road. He's already running.
 
 ---
 
+## Frequently Asked Questions
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does identity in Christ actually mean?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Identity in Christ means your standing before God is based on what Christ has done, not on your performance. It is the settled conviction that you are a son or daughter of the Father — not a servant earning approval — grounded in the completed work of Jesus. Paul states it plainly: 'You have died, and your life is hidden with Christ in God' (Colossians 3:3). This is not a feeling; it is a declared reality to be believed and lived from."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between religious identity and identity in Christ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Religious identity is contingent on performance — your standing rises and falls with your consistency. Identity in Christ is fixed in relationship. The parable of the prodigal son illustrates the contrast: the returning son expected servant status based on his failure; the father restored full sonship before the son finished speaking (Luke 15:20-22). Religious identity produces striving and shame cycles. Kingdom identity produces honest failure, immediate return, and genuine transformation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I know if I'm operating from religious identity instead of my identity in Christ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The diagnostic is your response to failure. After a week of significant moral failure, do you feel less able to approach God in prayer — pulling back to pay down debt before returning? If so, you are operating from religious identity regardless of what you theologically affirm about grace. The person rooted in Kingdom identity can run back to the Father, not crawl — because the relationship has not changed even when the conduct has."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does identity in Christ mean my behavior doesn't matter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Paul addresses this directly in Romans 6: grace is not a license for indifference. The point is that behavior flows from identity, not toward it. You do not obey to secure standing; you obey from standing. This distinction matters profoundly over time — performance-based obedience is exhausting and brittle; obedience from secure identity is, at its root, freeing. The Sermon on the Mount describes Kingdom behavior, and Jesus expects it. The question is what engine is producing it."
+      }
+    }
+  ]
+}
+</script>
+
+<details>
+<summary><strong>What does identity in Christ actually mean?</strong></summary>
+<p>Identity in Christ means your standing before God is based on what Christ has done, not on your performance. It is the settled conviction that you are a son or daughter of the Father — not a servant earning approval — grounded in the completed work of Jesus. Paul states it plainly: "You have died, and your life is hidden with Christ in God" (Colossians 3:3). This is not a feeling; it is a declared reality to be believed and lived from.</p>
+</details>
+
+<details>
+<summary><strong>What is the difference between religious identity and identity in Christ?</strong></summary>
+<p>Religious identity is contingent on performance — your standing rises and falls with your consistency. Identity in Christ is fixed in relationship. The parable of the prodigal son illustrates the contrast: the returning son expected servant status based on his failure; the father restored full sonship before the son finished speaking (Luke 15:20-22). Religious identity produces striving and shame cycles. Kingdom identity produces honest failure, immediate return, and genuine transformation.</p>
+</details>
+
+<details>
+<summary><strong>How do I know if I'm operating from religious identity instead of my identity in Christ?</strong></summary>
+<p>The diagnostic is your response to failure. After a week of significant moral failure, do you feel less able to approach God in prayer — pulling back to pay down debt before returning? If so, you are operating from religious identity regardless of what you theologically affirm about grace. The person rooted in Kingdom identity can run back to the Father, not crawl — because the relationship has not changed even when the conduct has.</p>
+</details>
+
+<details>
+<summary><strong>Does identity in Christ mean my behavior doesn't matter?</strong></summary>
+<p>No. Paul addresses this directly in Romans 6: grace is not a license for indifference. The point is that behavior flows from identity, not toward it. You do not obey to secure standing; you obey from standing. This distinction matters profoundly over time — performance-based obedience is exhausting and brittle; obedience from secure identity is, at its root, freeing. The Sermon on the Mount describes Kingdom behavior, and Jesus expects it. The question is what engine is producing it.</p>
+</details>
+
+---
+
 **Related reading:**
 - [What Is Kingdom Mindset?](/kingdom-mindset/2026/05/12/what-is-kingdom-mindset/) — Kingdom identity is the foundation of Kingdom mindset.
 - [Renewing Your Mind: What Romans 12:2 Is Actually Telling You to Do](/kingdom-mindset/2026/05/12/renewing-your-mind-romans-12/) — Identity shifts require mind renewal, not just new beliefs.

@@ -74,6 +74,71 @@ The narrow gate is open. The path is findable. Few find it, but "few" is not "no
 
 ---
 
+## Frequently Asked Questions
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does the narrow path mean in Matthew 7:13-14?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Jesus describes two roads: a wide, easy road that leads to destruction and a narrow, hard road that leads to life. The narrow gate requires leaving things behind — assumptions, habits, and priorities that won't fit through it. It is not easy to find (Jesus says 'those who find it are few'), meaning it requires intentional searching rather than passive drift. The broad road is the default; the narrow path must be actively sought."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does 'few find it' in Matthew 7:14 mean most Christians will not be saved?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Jesus is not making a statement about the saved and unsaved population in general. The Sermon on the Mount is addressed to disciples — people already following him — and the warning is a calibration tool: don't assume religious activity or church attendance means you are on the narrow path. Matthew 7:21-23 makes the same point: people who prophesied and did mighty works in Jesus's name were told 'I never knew you.' The criterion is genuine relationship with Christ producing alignment with the Father's will — not religious performance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between the narrow path and legalism?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Legalism is a man-made system of rules that creates an illusion of being on the narrow path while potentially being on the wide one. Jesus warns immediately after Matthew 7:13-14 about false prophets who dress the broad road to look like the narrow one (Matthew 7:15-20). The test is fruit — the life the teaching produces over time — not doctrinal compliance or rule-following. The narrow path runs through genuine relationship with Christ; legalism is a counterfeit that can be traveled in a crowd."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you stay on the narrow path in daily life?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The word 'find' in Matthew 7:14 implies ongoing seeking, not a one-time discovery. Staying on the narrow path requires sustained attention: continued renewal of the mind (Romans 12:2), prayer that keeps you aligned with the Father's will, community that holds you to Kingdom values, and the willingness to let go of what the wide road offers — comfort, ease, accommodation to the surrounding culture. It involves consistent friction. The narrow way runs against the current, which is partly what makes it hard."
+      }
+    }
+  ]
+}
+</script>
+
+<details>
+<summary><strong>What does the narrow path mean in Matthew 7:13-14?</strong></summary>
+<p>Jesus describes two roads: a wide, easy road that leads to destruction and a narrow, hard road that leads to life. The narrow gate requires leaving things behind — assumptions, habits, and priorities that won't fit through it. It is not easy to find (Jesus says "those who find it are few"), meaning it requires intentional searching rather than passive drift. The broad road is the default; the narrow path must be actively sought.</p>
+</details>
+
+<details>
+<summary><strong>Does "few find it" in Matthew 7:14 mean most Christians will not be saved?</strong></summary>
+<p>Jesus is not making a statement about the saved and unsaved population in general. The Sermon on the Mount is addressed to disciples — people already following him — and the warning is a calibration tool: don't assume religious activity or church attendance means you are on the narrow path. Matthew 7:21-23 makes the same point: people who prophesied and did mighty works in Jesus's name were told "I never knew you." The criterion is genuine relationship with Christ producing alignment with the Father's will — not religious performance.</p>
+</details>
+
+<details>
+<summary><strong>What is the difference between the narrow path and legalism?</strong></summary>
+<p>Legalism is a man-made system of rules that creates an illusion of being on the narrow path while potentially being on the wide one. Jesus warns immediately after Matthew 7:13-14 about false prophets who dress the broad road to look like the narrow one (Matthew 7:15-20). The test is fruit — the life the teaching produces over time — not doctrinal compliance or rule-following. The narrow path runs through genuine relationship with Christ; legalism is a counterfeit that can be traveled in a crowd.</p>
+</details>
+
+<details>
+<summary><strong>How do you stay on the narrow path in daily life?</strong></summary>
+<p>The word "find" in Matthew 7:14 implies ongoing seeking, not a one-time discovery. Staying on the narrow path requires sustained attention: continued renewal of the mind (Romans 12:2), prayer that keeps you aligned with the Father's will, community that holds you to Kingdom values, and the willingness to let go of what the wide road offers — comfort, ease, accommodation to the surrounding culture. It involves consistent friction. The narrow way runs against the current, which is partly what makes it hard.</p>
+</details>
+
+---
+
 **Related reading:**
 - [What Jesus Actually Said](/true-teachings/2026/05/12/what-jesus-actually-said/) — The Sermon on the Mount in full — the narrow path teaching comes at its conclusion.
 - [Identity in Christ vs. Religious Identity](/kingdom-mindset/2026/05/12/identity-in-christ-not-religion/) — The broad road is often paved with religious performance. Kingdom identity is different.

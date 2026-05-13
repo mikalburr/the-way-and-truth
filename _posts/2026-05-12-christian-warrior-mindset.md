@@ -74,3 +74,68 @@ You are not called to a comfortable life with Christian aesthetics. You are call
 That starts today. The discipline you build in private, the character you develop in seasons when no one sees, the interior work of aligning your perception with Kingdom reality — this is the preparation for the thing you are being made for.
 
 Train. Pray. Fight at the right level. And do not mistake comfort for peace.
+
+---
+
+## Frequently Asked Questions
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a Christian warrior mindset?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Christian warrior mindset is the recognition that spiritual warfare is real and ongoing (Ephesians 6:12), and the commitment to engage it with the appropriate weapons: truth, righteousness, faith, Scripture, and prayer. It is not aggression toward people but disciplined alignment against the spiritual forces of darkness. It requires the same things all effective warfare requires — correct threat assessment, proper equipment, sustained discipline, and unit cohesion with other men."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is a warrior mindset compatible with Christian meekness?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, and they are not in tension when both are properly understood. The Greek word for meek — praus — was used to describe a trained war horse: full power under disciplined control. Jesus himself claimed meekness (Matthew 11:29) and also drove money-changers from the temple with a whip he made himself (John 2:15). Meekness is power submitted to higher purpose, not the absence of strength. The domesticated version of Christian manhood that is gentle without strength is not meekness — it is weakness in religious clothing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does spiritual warfare look like in daily life?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ephesians 6:12 makes clear the enemy is not flesh and blood — not your difficult colleague, your circumstances, or the people who have wronged you. Daily spiritual warfare means engaging the real enemy through prayer, Scripture, and the disciplines that keep you sharp. It also means refusing to fight the battles at the wrong level — reactivity toward people rather than intercession against the spiritual forces behind visible conflicts."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why does physical discipline matter for spiritual warfare?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Paul treated his body as a stewardship problem: 'I discipline my body and keep it under control, lest after preaching to others I myself should be disqualified' (1 Corinthians 9:27). The capacity for self-discipline is not compartmentalized — a man who cannot govern his physical appetites will not govern his spiritual life well either. Physical training is stewardship of the instrument God gave you, and the tolerance for discomfort it builds is directly transferable to spiritual endurance."
+      }
+    }
+  ]
+}
+</script>
+
+<details>
+<summary><strong>What is a Christian warrior mindset?</strong></summary>
+<p>A Christian warrior mindset is the recognition that spiritual warfare is real and ongoing (Ephesians 6:12), and the commitment to engage it with the appropriate weapons: truth, righteousness, faith, Scripture, and prayer. It is not aggression toward people but disciplined alignment against the spiritual forces of darkness. It requires the same things all effective warfare requires — correct threat assessment, proper equipment, sustained discipline, and unit cohesion with other men.</p>
+</details>
+
+<details>
+<summary><strong>Is a warrior mindset compatible with Christian meekness?</strong></summary>
+<p>Yes, and they are not in tension when both are properly understood. The Greek word for meek — praus — was used to describe a trained war horse: full power under disciplined control. Jesus himself claimed meekness (Matthew 11:29) and also drove money-changers from the temple with a whip he made himself (John 2:15). Meekness is power submitted to higher purpose, not the absence of strength. The domesticated version of Christian manhood that is gentle without strength is not meekness — it is weakness in religious clothing.</p>
+</details>
+
+<details>
+<summary><strong>What does spiritual warfare look like in daily life?</strong></summary>
+<p>Ephesians 6:12 makes clear the enemy is not flesh and blood — not your difficult colleague, your circumstances, or the people who have wronged you. Daily spiritual warfare means engaging the real enemy through prayer, Scripture, and the disciplines that keep you sharp. It also means refusing to fight the battles at the wrong level — reactivity toward people rather than intercession against the spiritual forces behind visible conflicts.</p>
+</details>
+
+<details>
+<summary><strong>Why does physical discipline matter for spiritual warfare?</strong></summary>
+<p>Paul treated his body as a stewardship problem: "I discipline my body and keep it under control, lest after preaching to others I myself should be disqualified" (1 Corinthians 9:27). The capacity for self-discipline is not compartmentalized — a man who cannot govern his physical appetites will not govern his spiritual life well either. Physical training is stewardship of the instrument God gave you, and the tolerance for discomfort it builds is directly transferable to spiritual endurance.</p>
+</details>

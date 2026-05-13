@@ -80,6 +80,71 @@ That is what Kingdom leadership looks like. It is harder than any other kind. It
 
 ---
 
+## Frequently Asked Questions
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is biblical manhood and leadership according to Jesus?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Jesus defines Kingdom leadership as servant authority: 'whoever would be great among you must be your servant, and whoever would be first among you must be your slave' (Matthew 20:26-27). This is not the absence of authority but a completely different kind — authority exercised for the people being led, not extracted from them. The foot-washing in John 13 is the model: Jesus knew exactly who he was and what authority he had, and from that security he served. Kingdom leadership flows from identity, not from the need to be seen leading."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does the Bible teach that men should be the leader of the home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ephesians 5:25-28 gives the shape of male headship: 'Husbands, love your wives, as Christ loved the church and gave himself up for her.' The model is sacrificial giving, not positional extraction. Christ's authority over the church is exercised through self-giving, not self-serving. A husband who leads as Christ loved the church is the one who absorbs cost, stands in the gap, and provides covering — the authority is real, and it comes with weight proportional to its scope. Most men who want the authority don't want the cost that legitimizes it."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between Kingdom authority and worldly authority?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Jesus draws the contrast explicitly in Matthew 20:25-27: 'the rulers of the Gentiles lord it over them... It shall not be so among you.' Worldly authority is authority over — leveraged for the leader's benefit, comfort, or status. Kingdom authority is authority for — exercised in service to those being led, at cost to the leader. The crowds recognized that Jesus taught 'as one who had authority' (Matthew 7:28-29) — not because of position, but because of alignment with the Father. Kingdom authority is sourced in God, not in title."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does a Christian man develop Kingdom authority?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kingdom authority flows from alignment — with God's purposes, with your calling, with the integrity of your character. Jesus said 'the Son can do nothing of his own accord, but only what he sees the Father doing' (John 5:19), and this complete dependence on the Father produced absolute authority in the world. A man who is aligned with God, has disciplined himself under the Spirit's governance, and knows who he is carries authority others recognize without being able to explain. It begins in your immediate circle — family, close relationships — not with strangers or titles."
+      }
+    }
+  ]
+}
+</script>
+
+<details>
+<summary><strong>What is biblical manhood and leadership according to Jesus?</strong></summary>
+<p>Jesus defines Kingdom leadership as servant authority: "whoever would be great among you must be your servant, and whoever would be first among you must be your slave" (Matthew 20:26-27). This is not the absence of authority but a completely different kind — authority exercised for the people being led, not extracted from them. The foot-washing in John 13 is the model: Jesus knew exactly who he was and what authority he had, and from that security he served. Kingdom leadership flows from identity, not from the need to be seen leading.</p>
+</details>
+
+<details>
+<summary><strong>Does the Bible teach that men should be the leader of the home?</strong></summary>
+<p>Ephesians 5:25-28 gives the shape of male headship: "Husbands, love your wives, as Christ loved the church and gave himself up for her." The model is sacrificial giving, not positional extraction. Christ's authority over the church is exercised through self-giving, not self-serving. A husband who leads as Christ loved the church is the one who absorbs cost, stands in the gap, and provides covering — the authority is real, and it comes with weight proportional to its scope. Most men who want the authority don't want the cost that legitimizes it.</p>
+</details>
+
+<details>
+<summary><strong>What is the difference between Kingdom authority and worldly authority?</strong></summary>
+<p>Jesus draws the contrast explicitly in Matthew 20:25-27: "the rulers of the Gentiles lord it over them... It shall not be so among you." Worldly authority is authority over — leveraged for the leader's benefit, comfort, or status. Kingdom authority is authority for — exercised in service to those being led, at cost to the leader. The crowds recognized that Jesus taught "as one who had authority" (Matthew 7:28-29) — not because of position, but because of alignment with the Father. Kingdom authority is sourced in God, not in title.</p>
+</details>
+
+<details>
+<summary><strong>How does a Christian man develop Kingdom authority?</strong></summary>
+<p>Kingdom authority flows from alignment — with God's purposes, with your calling, with the integrity of your character. Jesus said "the Son can do nothing of his own accord, but only what he sees the Father doing" (John 5:19), and this complete dependence on the Father produced absolute authority in the world. A man who is aligned with God, has disciplined himself under the Spirit's governance, and knows who he is carries authority others recognize without being able to explain. It begins in your immediate circle — family, close relationships — not with strangers or titles.</p>
+</details>
+
+---
+
 **Related reading:**
 - [The Christian Warrior Mindset](/warrior-mindset/2026/05/12/christian-warrior-mindset/) — Ephesians 6 and the spiritual conflict framework every Kingdom man operates in.
 - [What Is Kingdom Mindset?](/kingdom-mindset/2026/05/12/what-is-kingdom-mindset/) — Kingdom authority flows from Kingdom mindset — the two are inseparable.

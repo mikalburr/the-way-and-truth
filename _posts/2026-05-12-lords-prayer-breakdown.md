@@ -78,6 +78,71 @@ That's the point.
 
 ---
 
+## Frequently Asked Questions
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the Lord's Prayer and what does it mean?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Lord's Prayer (Matthew 6:9-13) is not primarily a liturgical formula to recite — it is a model Jesus gives his disciples for how to pray. It moves deliberately through God's character, God's Kingdom, God's will, daily provision, forgiveness, and spiritual protection. Its structure teaches that prayer is first an act of reorientation toward God before it is a delivery mechanism for requests. Prayed as actually intended, it changes the person praying more than it changes the circumstances."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why does the Lord's Prayer start with God's kingdom before asking for anything?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Because the structure is the teaching. Jesus deliberately places three Kingdom-focused petitions — hallowing God's name, seeking his Kingdom, submitting to his will — before the first request for human need. This reorients the person praying before they ask for anything: the God being addressed is first recognized as transcendent Father, his centrality is affirmed, and his will is submitted to. A person who has genuinely done this first is then in the right posture to ask simply for daily bread rather than from anxiety."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does 'forgive us our debts as we forgive our debtors' mean?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Jesus returns to this petition immediately after the prayer (Matthew 6:14-15), signaling its weight. A person who has genuinely received forgiveness from God and grasped its cost is capable of extending it to others. Inability to forgive others is a diagnostic: it signals that forgiveness may not have been received and internalized at depth. You cannot sincerely pray 'forgive me as I forgive others' while actively withholding forgiveness — the prayer creates accountability to its own language."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should Christians use the Lord's Prayer in daily life?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "As a daily practice of reorientation, not a recitation. Use it as the structure for actual prayer — expanding each petition rather than rushing through the words. 'Hallowed be your name' becomes genuine worship and acknowledgment of who God is. 'Your Kingdom come' becomes active alignment with what God is doing. 'Give us daily bread' becomes honest, modest petition after God has been genuinely placed first. Prayed this way regularly, it shapes how you see everything else."
+      }
+    }
+  ]
+}
+</script>
+
+<details>
+<summary><strong>What is the Lord's Prayer and what does it mean?</strong></summary>
+<p>The Lord's Prayer (Matthew 6:9-13) is not primarily a liturgical formula to recite — it is a model Jesus gives his disciples for how to pray. It moves deliberately through God's character, God's Kingdom, God's will, daily provision, forgiveness, and spiritual protection. Its structure teaches that prayer is first an act of reorientation toward God before it is a delivery mechanism for requests. Prayed as actually intended, it changes the person praying more than it changes the circumstances.</p>
+</details>
+
+<details>
+<summary><strong>Why does the Lord's Prayer start with God's kingdom before asking for anything?</strong></summary>
+<p>Because the structure is the teaching. Jesus deliberately places three Kingdom-focused petitions — hallowing God's name, seeking his Kingdom, submitting to his will — before the first request for human need. This reorients the person praying before they ask for anything: the God being addressed is first recognized as transcendent Father, his centrality is affirmed, and his will is submitted to. A person who has genuinely done this first is then in the right posture to ask simply for daily bread rather than from anxiety.</p>
+</details>
+
+<details>
+<summary><strong>What does "forgive us our debts as we forgive our debtors" mean?</strong></summary>
+<p>Jesus returns to this petition immediately after the prayer (Matthew 6:14-15), signaling its weight. A person who has genuinely received forgiveness from God and grasped its cost is capable of extending it to others. Inability to forgive others is a diagnostic: it signals that forgiveness may not have been received and internalized at depth. You cannot sincerely pray "forgive me as I forgive others" while actively withholding forgiveness — the prayer creates accountability to its own language.</p>
+</details>
+
+<details>
+<summary><strong>How should Christians use the Lord's Prayer in daily life?</strong></summary>
+<p>As a daily practice of reorientation, not a recitation. Use it as the structure for actual prayer — expanding each petition rather than rushing through the words. "Hallowed be your name" becomes genuine worship and acknowledgment of who God is. "Your Kingdom come" becomes active alignment with what God is doing. "Give us daily bread" becomes honest, modest petition after God has been genuinely placed first. Prayed this way regularly, it shapes how you see everything else.</p>
+</details>
+
+---
+
 **Related reading:**
 - [What Jesus Actually Said](/true-teachings/2026/05/12/what-jesus-actually-said/) — The Lord's Prayer is part of the Sermon on the Mount. Read the full context.
 - [Seek First the Kingdom](/kingdom-mindset/2026/05/12/seek-first-the-kingdom/) — The prayer's structure embodies the principle of Matthew 6:33.

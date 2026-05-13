@@ -72,3 +72,68 @@ This is why the Psalms, the Gospels, the letters of Paul all return constantly t
 That is the work. And it is work. Not passive, not instant. But it is work done from a position of security — because the Kingdom has already been given, and the King has already won.
 
 Start there. Everything else follows.
+
+---
+
+## Frequently Asked Questions
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a Kingdom mindset in Christianity?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Kingdom mindset is the conviction that the Kingdom of God — the domain where God's will is operative — is the primary reality by which a believer orders their life. Jesus announced this Kingdom as present and available (Mark 1:15), not merely a future destination after death. It is not a self-help technique but a fundamental reorientation of what you believe to be real."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between Kingdom mindset and positive thinking?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Positive thinking is centered on the individual — optimizing your outlook for better outcomes. Kingdom mindset is centered on God's rule and reality, which may or may not align with personal comfort or success. Matthew 6:33 calls believers to seek the Kingdom first, not to use it as a tool for personal gain. The orientation is toward the King, not toward self-improvement."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you develop a Kingdom mindset?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Paul's instruction in Romans 12:2 gives the mechanism: transformation through the renewing of the mind. This happens through sustained, serious engagement with Scripture, prayer that realigns your priorities to God's, and community that reinforces Kingdom values rather than the world's. It is ongoing work, not a single decision — but it proceeds from security, because as Jesus said, it is the Father's good pleasure to give his children the Kingdom (Luke 12:32)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Kingdom mindset the same as the Kingdom of God?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kingdom mindset is the internal posture of someone who lives in alignment with the Kingdom of God — it is the human side of the relationship. The Kingdom of God is the reign and domain of God himself, announced by Jesus as already present (Luke 17:20-21). You develop a Kingdom mindset by orienting your life around that reality. The Kingdom exists whether or not you have the mindset; the mindset is your response to its existence."
+      }
+    }
+  ]
+}
+</script>
+
+<details>
+<summary><strong>What is a Kingdom mindset in Christianity?</strong></summary>
+<p>A Kingdom mindset is the conviction that the Kingdom of God — the domain where God's will is operative — is the primary reality by which a believer orders their life. Jesus announced this Kingdom as present and available (Mark 1:15), not merely a future destination after death. It is not a self-help technique but a fundamental reorientation of what you believe to be real.</p>
+</details>
+
+<details>
+<summary><strong>What is the difference between Kingdom mindset and positive thinking?</strong></summary>
+<p>Positive thinking is centered on the individual — optimizing your outlook for better outcomes. Kingdom mindset is centered on God's rule and reality, which may or may not align with personal comfort or success. Matthew 6:33 calls believers to seek the Kingdom first, not to use it as a tool for personal gain. The orientation is toward the King, not toward self-improvement.</p>
+</details>
+
+<details>
+<summary><strong>How do you develop a Kingdom mindset?</strong></summary>
+<p>Paul's instruction in Romans 12:2 gives the mechanism: transformation through the renewing of the mind. This happens through sustained, serious engagement with Scripture, prayer that realigns your priorities to God's, and community that reinforces Kingdom values rather than the world's. It is ongoing work, not a single decision — but it proceeds from security, because as Jesus said, it is the Father's good pleasure to give his children the Kingdom (Luke 12:32).</p>
+</details>
+
+<details>
+<summary><strong>Is Kingdom mindset the same as the Kingdom of God?</strong></summary>
+<p>Kingdom mindset is the internal posture of someone who lives in alignment with the Kingdom of God — it is the human side of the relationship. The Kingdom of God is the reign and domain of God himself, announced by Jesus as already present (Luke 17:20-21). You develop a Kingdom mindset by orienting your life around that reality. The Kingdom exists whether or not you have the mindset; the mindset is your response to its existence.</p>
+</details>

@@ -72,6 +72,71 @@ The conversation that started by night ended somewhere very different.
 
 ---
 
+## Frequently Asked Questions
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What did Jesus mean when he said you must be born again?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Jesus meant a new birth initiated by the Spirit of God — not a second physical birth, but a qualitative transformation that makes a person capable of perceiving and entering the Kingdom of God. The Greek word anōthen means both 'again' and 'from above.' This new birth is not a religious achievement; it is a gift received. Natural birth produces natural life; birth of the Spirit produces spiritual life capable of Kingdom participation (John 3:5-6)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does born of water and the Spirit mean in John 3:5?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most likely reference is to Ezekiel 36:25-27, where God promises to sprinkle clean water on Israel and put his Spirit within them — a new heart and a new spirit as a gift of the new covenant. Jesus implies Nicodemus, as 'the teacher of Israel,' should have recognized the connection (John 3:10). The 'water and Spirit' describes the same transformative work: external cleansing and internal renewal, both accomplished by God, not human religious effort."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does being born again just mean making a decision to follow Jesus?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No — and the wind analogy Jesus uses in John 3:8 is the corrective. The Spirit moves where he wishes; you observe the effects but cannot predict or manufacture him. The new birth is sovereignly given by God, not produced by human decision or religious performance. This is exactly why Nicodemus — at the top of the religious system — needed it as much as anyone else. His credentials were irrelevant to receiving it. The proper human response is the trust and alignment Jesus calls 'belief' (John 3:16)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is eternal life in John 3:16?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In John's Gospel, eternal life (zōē aiōnios) is not primarily about duration — living forever after death. It is a quality of life: the life of the age to come, Kingdom life available now, life animated by the Spirit of God. When Jesus says 'whoever believes in him should not perish but have eternal life,' the perishing is the state of the unregenerate person unable to enter the Kingdom; the eternal life is the new existence that begins with new birth and extends beyond death."
+      }
+    }
+  ]
+}
+</script>
+
+<details>
+<summary><strong>What did Jesus mean when he said you must be born again?</strong></summary>
+<p>Jesus meant a new birth initiated by the Spirit of God — not a second physical birth, but a qualitative transformation that makes a person capable of perceiving and entering the Kingdom of God. The Greek word anōthen means both "again" and "from above." This new birth is not a religious achievement; it is a gift received. Natural birth produces natural life; birth of the Spirit produces spiritual life capable of Kingdom participation (John 3:5-6).</p>
+</details>
+
+<details>
+<summary><strong>What does "born of water and the Spirit" mean in John 3:5?</strong></summary>
+<p>The most likely reference is to Ezekiel 36:25-27, where God promises to sprinkle clean water on Israel and put his Spirit within them — a new heart and a new spirit as a gift of the new covenant. Jesus implies Nicodemus, as "the teacher of Israel," should have recognized the connection (John 3:10). The "water and Spirit" describes the same transformative work: external cleansing and internal renewal, both accomplished by God, not human religious effort.</p>
+</details>
+
+<details>
+<summary><strong>Does being born again just mean making a decision to follow Jesus?</strong></summary>
+<p>No — and the wind analogy Jesus uses in John 3:8 is the corrective. The Spirit moves where he wishes; you observe the effects but cannot predict or manufacture him. The new birth is sovereignly given by God, not produced by human decision or religious performance. This is exactly why Nicodemus — at the top of the religious system — needed it as much as anyone else. His credentials were irrelevant to receiving it. The proper human response is the trust and alignment Jesus calls "belief" (John 3:16).</p>
+</details>
+
+<details>
+<summary><strong>What is eternal life in John 3:16?</strong></summary>
+<p>In John's Gospel, eternal life (zōē aiōnios) is not primarily about duration — living forever after death. It is a quality of life: the life of the age to come, Kingdom life available now, life animated by the Spirit of God. When Jesus says "whoever believes in him should not perish but have eternal life," the perishing is the state of the unregenerate person unable to enter the Kingdom; the eternal life is the new existence that begins with new birth and extends beyond death.</p>
+</details>
+
+---
+
 **Related reading:**
 - [What Jesus Actually Said](/true-teachings/2026/05/12/what-jesus-actually-said/) — The Sermon on the Mount is the other core block of Jesus's teaching.
 - [What Is Kingdom Mindset?](/kingdom-mindset/2026/05/12/what-is-kingdom-mindset/) — The Kingdom Nicodemus couldn't yet see is the same one Jesus describes throughout the Gospels.

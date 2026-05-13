@@ -72,3 +72,68 @@ It is also a mirror. Read it slowly and you will see where your life diverges fr
 That is what this pillar of the site is for — to read the actual words of Jesus closely enough that they have the chance to change what you see.
 
 Go read Matthew 5-7 today. Not as homework. As discovery.
+
+---
+
+## Frequently Asked Questions
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What did Jesus actually teach in the Sermon on the Mount?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Sermon on the Mount (Matthew 5-7) is Jesus's structured argument about the nature of Kingdom life — what it looks like from the inside, what it requires, and how it differs from religious performance and moral indifference. It covers the Beatitudes, an intensification of the Mosaic law from exterior behavior to interior character, the Lord's Prayer, and a concluding call to enter the narrow gate. It is not a moral upgrade — it is a description of what becomes natural when the Kingdom of God is your actual operating reality."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does 'blessed' mean in the Beatitudes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Greek word translated 'blessed' is makarios — meaning the truly well-off, the ones in the right position, the enviable ones. Jesus is not promising future comfort to the downtrodden. He is describing present spiritual positioning: the poor in spirit, for instance, already possess the Kingdom of heaven (Matthew 5:3). The Beatitudes are a description of the posture that puts a person in right relationship with the Kingdom right now, not eventually."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does Jesus mean when he says 'you have heard it said, but I say to you'?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Jesus uses this formula six times in Matthew 5 to contrast received tradition with his own authority — not citing a rabbi or correcting a misreading, but speaking on his own authority above the Mosaic law. Each antithesis moves from exterior behavior (murder, adultery, oaths) to the interior condition that produces it (anger, lust, dishonesty). He is not adding stricter rules but addressing the whole person rather than managing conduct."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the Sermon on the Mount a higher standard Christians are supposed to try harder to meet?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. The Sermon on the Mount is a description of what becomes natural when the Kingdom of God is your actual operating reality and your mind has been genuinely renewed by the Spirit (Romans 12:2). Read as a performance standard to try harder to meet, it crushes. Read as a mirror showing where your life diverges from Kingdom reality, it diagnoses. The divergence is primarily perceptual — you are seeing something as less real than it is — not primarily a failure of willpower."
+      }
+    }
+  ]
+}
+</script>
+
+<details>
+<summary><strong>What did Jesus actually teach in the Sermon on the Mount?</strong></summary>
+<p>The Sermon on the Mount (Matthew 5-7) is Jesus's structured argument about the nature of Kingdom life — what it looks like from the inside, what it requires, and how it differs from religious performance and moral indifference. It covers the Beatitudes, an intensification of the Mosaic law from exterior behavior to interior character, the Lord's Prayer, and a concluding call to enter the narrow gate. It is not a moral upgrade — it is a description of what becomes natural when the Kingdom of God is your actual operating reality.</p>
+</details>
+
+<details>
+<summary><strong>What does "blessed" mean in the Beatitudes?</strong></summary>
+<p>The Greek word translated "blessed" is makarios — meaning the truly well-off, the ones in the right position, the enviable ones. Jesus is not promising future comfort to the downtrodden. He is describing present spiritual positioning: the poor in spirit, for instance, already possess the Kingdom of heaven (Matthew 5:3). The Beatitudes are a description of the posture that puts a person in right relationship with the Kingdom right now, not eventually.</p>
+</details>
+
+<details>
+<summary><strong>What does Jesus mean when he says "you have heard it said, but I say to you"?</strong></summary>
+<p>Jesus uses this formula six times in Matthew 5 to contrast received tradition with his own authority — not citing a rabbi or correcting a misreading, but speaking on his own authority above the Mosaic law. Each antithesis moves from exterior behavior (murder, adultery, oaths) to the interior condition that produces it (anger, lust, dishonesty). He is not adding stricter rules but addressing the whole person rather than managing conduct.</p>
+</details>
+
+<details>
+<summary><strong>Is the Sermon on the Mount a higher standard Christians are supposed to try harder to meet?</strong></summary>
+<p>No. The Sermon on the Mount is a description of what becomes natural when the Kingdom of God is your actual operating reality and your mind has been genuinely renewed by the Spirit (Romans 12:2). Read as a performance standard to try harder to meet, it crushes. Read as a mirror showing where your life diverges from Kingdom reality, it diagnoses. The divergence is primarily perceptual — you are seeing something as less real than it is — not primarily a failure of willpower.</p>
+</details>

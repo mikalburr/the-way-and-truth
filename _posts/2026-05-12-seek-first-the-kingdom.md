@@ -72,6 +72,71 @@ The alternative is not carelessness about provision. It's a reorientation deep e
 
 ---
 
+## Frequently Asked Questions
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does 'seek first the kingdom of God' mean in Matthew 6:33?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It means making the Kingdom of God the organizing center of your life — the priority around which everything else orients — not a compartment within an otherwise self-directed life. The word 'seek' (zeteo) is active and intentional; 'first' (proton) establishes priority, not sequence. Jesus gives this command as the conclusion to an argument about anxiety and provision: the person who genuinely seeks the Kingdom first operates from a different logic than the person organizing their life around self-secured outcomes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Matthew 6:33 promise financial blessing if you put God first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. The 'all these things' Jesus refers to are food, drink, and clothing — the daily necessities he discusses in Matthew 6:25-32. The promise is sufficient provision from a Father who knows what you need (Matthew 6:32), not abundance or prosperity. Jesus has already told his audience to pray for daily bread, not a year's supply (Matthew 6:11). This is a promise of reliable provision, not a formula for financial success."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between seeking the Kingdom and being spiritual?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Seeking the Kingdom means actively pursuing alignment with God's rule and righteousness as the organizing priority of your whole life. Being 'spiritual' often means adding spiritual practices to an otherwise self-directed life. Jesus draws the contrast with 'Gentiles' in Matthew 6:32 — not an ethnic category but a theological one: people who don't know the Father and therefore organize their lives around self-secured provision. Seeking the Kingdom is the alternative to that entire framework, not a supplement to it."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I know if I'm actually seeking the Kingdom first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The test Jesus implies is in what your anxiety reveals. What do you reach for first when things get uncertain? What does your schedule show you actually prioritize? What does your money flow reveal about your real values? Not what you say you prioritize — what the evidence of your choices shows you are organized around. If the honest answer is security, approval, or financial stability, you are operating like someone who doesn't have a Father who knows what they need. The reorientation Matthew 6:33 calls for is at that level."
+      }
+    }
+  ]
+}
+</script>
+
+<details>
+<summary><strong>What does "seek first the kingdom of God" mean in Matthew 6:33?</strong></summary>
+<p>It means making the Kingdom of God the organizing center of your life — the priority around which everything else orients — not a compartment within an otherwise self-directed life. The word "seek" (zeteo) is active and intentional; "first" (proton) establishes priority, not sequence. Jesus gives this command as the conclusion to an argument about anxiety and provision: the person who genuinely seeks the Kingdom first operates from a different logic than the person organizing their life around self-secured outcomes.</p>
+</details>
+
+<details>
+<summary><strong>Does Matthew 6:33 promise financial blessing if you put God first?</strong></summary>
+<p>No. The "all these things" Jesus refers to are food, drink, and clothing — the daily necessities he discusses in Matthew 6:25-32. The promise is sufficient provision from a Father who knows what you need (Matthew 6:32), not abundance or prosperity. Jesus has already told his audience to pray for daily bread, not a year's supply (Matthew 6:11). This is a promise of reliable provision, not a formula for financial success.</p>
+</details>
+
+<details>
+<summary><strong>What is the difference between seeking the Kingdom and being spiritual?</strong></summary>
+<p>Seeking the Kingdom means actively pursuing alignment with God's rule and righteousness as the organizing priority of your whole life. Being "spiritual" often means adding spiritual practices to an otherwise self-directed life. Jesus draws the contrast with "Gentiles" in Matthew 6:32 — not an ethnic category but a theological one: people who don't know the Father and therefore organize their lives around self-secured provision. Seeking the Kingdom is the alternative to that entire framework, not a supplement to it.</p>
+</details>
+
+<details>
+<summary><strong>How do I know if I'm actually seeking the Kingdom first?</strong></summary>
+<p>The test Jesus implies is in what your anxiety reveals. What do you reach for first when things get uncertain? What does your schedule show you actually prioritize? What does your money flow reveal about your real values? Not what you say you prioritize — what the evidence of your choices shows you are organized around. If the honest answer is security, approval, or financial stability, you are operating like someone who doesn't have a Father who knows what they need. The reorientation Matthew 6:33 calls for is at that level.</p>
+</details>
+
+---
+
 **Related reading:**
 - [What Is Kingdom Mindset?](/kingdom-mindset/2026/05/12/what-is-kingdom-mindset/) — The foundation for understanding what it means to live from inside the Kingdom.
 - [What Jesus Actually Said](/true-teachings/2026/05/12/what-jesus-actually-said/) — Matthew 6:33 sits inside the Sermon on the Mount. Read the whole argument.

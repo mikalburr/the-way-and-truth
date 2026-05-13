@@ -78,6 +78,71 @@ Start hungry. Stay hungry. Prove to yourself what you're made of.
 
 ---
 
+## Frequently Asked Questions
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the purpose of fasting in Christianity?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fasting is voluntary deprivation for spiritual purpose — proving that the body does not own you, sharpening focus for prayer, and building the will's capacity to deny what it demands. Jesus assumed his followers would fast (Matthew 6:16 — 'when you fast,' not 'if'). In the New Testament, fasting consistently accompanies prayer at moments of significant discernment or spiritual weight (Acts 13:2-3, Acts 14:23). It is not self-punishment; it is self-governance, practiced regularly so it is available under pressure."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does the Bible say about fasting and prayer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Bible treats fasting and prayer as inseparable disciplines. Jesus fasted 40 days before his public ministry and was then tempted directly in the area of that fast (Matthew 4:1-3). The early church fasted and prayed when seeking direction (Acts 13:2-3) and appointing leaders (Acts 14:23). In Matthew 6, Jesus places fasting alongside almsgiving and prayer as the three classical disciplines — all three assumed, all three to be practiced without self-display. Fasting makes prayer sharper because it removes the constant distraction of appetite and food planning."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is fasting just about food, or can you fast from other things?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Scripture's primary use of fasting refers to food. The biblical rationale is specific: food is the body's most fundamental demand, and denying it proves a level of self-governance that transfers to other appetites. A man who can refuse hunger when it demands can refuse other things when they demand. That said, the principle of voluntary deprivation for spiritual clarity can extend to other inputs — but starting with food is starting with the thing that most directly tests whether the body governs you or you govern the body."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should a Christian begin a fasting practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with a single skipped meal: eat dinner, skip breakfast and lunch the next day, drink water, pray during the hours you would have eaten. Pay attention to what surfaces — the hunger, and the impulse to fill the space with something else. That impulse is diagnostic. From there, extend to full day fasts, and eventually to a regular weekly rhythm. Jesus's instruction in Matthew 6:17-18 is clear: tell no one, maintain normal appearance, keep it between you and the Father. The discipline is undone by making it a performance."
+      }
+    }
+  ]
+}
+</script>
+
+<details>
+<summary><strong>What is the purpose of fasting in Christianity?</strong></summary>
+<p>Fasting is voluntary deprivation for spiritual purpose — proving that the body does not own you, sharpening focus for prayer, and building the will's capacity to deny what it demands. Jesus assumed his followers would fast (Matthew 6:16 — "when you fast," not "if"). In the New Testament, fasting consistently accompanies prayer at moments of significant discernment or spiritual weight (Acts 13:2-3, Acts 14:23). It is not self-punishment; it is self-governance, practiced regularly so it is available under pressure.</p>
+</details>
+
+<details>
+<summary><strong>What does the Bible say about fasting and prayer?</strong></summary>
+<p>The Bible treats fasting and prayer as inseparable disciplines. Jesus fasted 40 days before his public ministry and was then tempted directly in the area of that fast (Matthew 4:1-3). The early church fasted and prayed when seeking direction (Acts 13:2-3) and appointing leaders (Acts 14:23). In Matthew 6, Jesus places fasting alongside almsgiving and prayer as the three classical disciplines — all three assumed, all three to be practiced without self-display. Fasting makes prayer sharper because it removes the constant distraction of appetite and food planning.</p>
+</details>
+
+<details>
+<summary><strong>Is fasting just about food, or can you fast from other things?</strong></summary>
+<p>Scripture's primary use of fasting refers to food. The biblical rationale is specific: food is the body's most fundamental demand, and denying it proves a level of self-governance that transfers to other appetites. A man who can refuse hunger when it demands can refuse other things when they demand. That said, the principle of voluntary deprivation for spiritual clarity can extend to other inputs — but starting with food is starting with the thing that most directly tests whether the body governs you or you govern the body.</p>
+</details>
+
+<details>
+<summary><strong>How should a Christian begin a fasting practice?</strong></summary>
+<p>Start with a single skipped meal: eat dinner, skip breakfast and lunch the next day, drink water, pray during the hours you would have eaten. Pay attention to what surfaces — the hunger, and the impulse to fill the space with something else. That impulse is diagnostic. From there, extend to full day fasts, and eventually to a regular weekly rhythm. Jesus's instruction in Matthew 6:17-18 is clear: tell no one, maintain normal appearance, keep it between you and the Father. The discipline is undone by making it a performance.</p>
+</details>
+
+---
+
 **Related reading:**
 - [The Christian Warrior Mindset](/warrior-mindset/2026/05/12/christian-warrior-mindset/) — Ephesians 6 and the full framework of spiritual warfare.
 - [The Narrow Path: Matthew 7](/true-teachings/2026/05/12/narrow-path-matthew-7/) — The narrow way is hard. Fasting is one of the disciplines that makes hard bearable.
