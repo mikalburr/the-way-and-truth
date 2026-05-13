@@ -1,0 +1,80 @@
+---
+layout: default
+---
+
+{% assign words = content | number_of_words %}
+{% assign read_time = words | divided_by: 200 | plus: 1 %}
+{% assign post_category = page.categories | first %}
+
+<article class="post" itemscope itemtype="https://schema.org/Article">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": {{ page.title | jsonify }},
+    "description": {{ page.description | jsonify }},
+    "datePublished": "{{ page.date | date_to_xmlschema }}",
+    "dateModified": "{% if page.modified_date %}{{ page.modified_date | date_to_xmlschema }}{% else %}{{ page.date | date_to_xmlschema }}{% endif %}",
+    "author": {
+      "@type": "Person",
+      "name": {{ page.author | default: site.author.name | jsonify }}
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": {{ site.title | jsonify }},
+      "url": {{ site.url | jsonify }}
+    }{% if page.image %},
+    "image": {{ page.image | prepend: site.url | jsonify }}{% endif %}
+  }
+  </script>
+
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+    <ol>
+      <li><a href="{{ '/' | prepend: site.baseurl }}">Home</a></li>
+      {% if post_category %}
+      <li><a href="{{ '/category/' | append: post_category | append: '/' | prepend: site.baseurl }}">{{ post_category | replace: '-', ' ' | capitalize }}</a></li>
+      {% endif %}
+      <li aria-current="page">{{ page.title }}</li>
+    </ol>
+  </nav>
+
+  <header class="post-header">
+    <h1 itemprop="headline">{{ page.title }}</h1>
+
+    <div class="post-meta">
+      <span class="post-author" itemprop="author" itemscope itemtype="https://schema.org/Person">
+        By <span itemprop="name">{{ page.author | default: site.author.name }}</span>
+      </span>
+      <span class="post-date">
+        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+          {{ page.date | date: "%B %-d, %Y" }}
+        </time>
+      </span>
+      <span class="read-time">{{ read_time }} min read</span>
+    </div>
+
+    {% include ad_unit.html slot="header_banner" %}
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  {% include ad_unit.html slot="in_article" %}
+
+  {% if site.related_posts and site.related_posts.size > 0 %}
+  <aside class="related-posts">
+    <h3>You might also like</h3>
+    <ul>
+      {% for related in site.related_posts limit:3 %}
+      <li>
+        <a href="{{ related.url | prepend: site.baseurl }}">{{ related.title }}</a>
+        <span class="related-date">{{ related.date | date: "%B %-d, %Y" }}</span>
+      </li>
+      {% endfor %}
+    </ul>
+  </aside>
+  {% endif %}
+
+</article>

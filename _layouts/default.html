@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% include head.html %}
+</head>
+<body>
+  {% include header.html %}
+
+  <main class="site-main">
+    <div class="content-area">
+      {{ content }}
+    </div>
+    <!-- DEFERRED: sidebar ad unit — re-add conditional branch when a page sets sidebar: true -->
+  </main>
+
+  {% include footer.html %}
+
+  <script src="{{ '/assets/js/ad-inject.js' | prepend: site.baseurl }}"></script>
+</body>
+</html>

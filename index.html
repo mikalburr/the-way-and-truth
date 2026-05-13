@@ -1,0 +1,77 @@
+---
+layout: default
+title: "The Way & Truth"
+description: "Deep-dive biblical content on Kingdom mindset, the true teachings of Jesus, and Christian manhood. No religion. No compromise. The Way."
+paginate: true
+---
+
+<div class="home-hero">
+  <h1>The Way &amp; Truth</h1>
+  <p class="tagline">{{ site.tagline }}</p>
+  <a class="cta-button" href="{{ '/start-here/' | prepend: site.baseurl }}">Start Here &rarr;</a>
+</div>
+
+<section class="pillars">
+  <a class="pillar-card" href="{{ '/category/kingdom-mindset/' | prepend: site.baseurl }}">
+    <h3>Kingdom Mindset</h3>
+    <p>Who you are in Christ. The Kingdom as present reality, not future reward.</p>
+  </a>
+  <a class="pillar-card" href="{{ '/category/true-teachings/' | prepend: site.baseurl }}">
+    <h3>True Teachings</h3>
+    <p>What Jesus actually said — red-letter, unfiltered, without tradition layered on top.</p>
+  </a>
+  <a class="pillar-card" href="{{ '/category/warrior-mindset/' | prepend: site.baseurl }}">
+    <h3>Warrior Mindset</h3>
+    <p>Biblical manhood, discipline, and leading with Kingdom authority.</p>
+  </a>
+</section>
+
+<section class="recent-posts">
+  <h2>Latest Articles</h2>
+
+  {% if paginator.posts %}
+    {% assign posts_to_show = paginator.posts %}
+  {% else %}
+    {% assign posts_to_show = site.posts %}
+  {% endif %}
+
+  <ul class="post-list">
+    {% for post in posts_to_show %}
+    {% assign words = post.content | number_of_words %}
+    {% assign read_time = words | divided_by: 200 | plus: 1 %}
+    <li class="post-list-item">
+      <article>
+        <h2 class="post-list-title">
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        <div class="post-list-meta">
+          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+          <span class="read-time">{{ read_time }} min read</span>
+          {% if post.categories.first %}
+          <span class="post-category">{{ post.categories.first | replace: '-', ' ' | capitalize }}</span>
+          {% endif %}
+        </div>
+        {% if post.description %}
+        <p class="post-list-excerpt">{{ post.description }}</p>
+        {% elsif post.excerpt %}
+        <p class="post-list-excerpt">{{ post.excerpt | strip_html | truncatewords: 40 }}</p>
+        {% endif %}
+        <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">Read more &rarr;</a>
+      </article>
+    </li>
+    {% endfor %}
+  </ul>
+
+  {% if paginator.total_pages > 1 %}
+  <nav class="pagination" aria-label="Post pagination">
+    {% if paginator.previous_page %}
+    <a class="pagination-prev" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">&larr; Newer</a>
+    {% endif %}
+    <span class="pagination-info">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    {% if paginator.next_page %}
+    <a class="pagination-next" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older &rarr;</a>
+    {% endif %}
+  </nav>
+  {% endif %}
+
+</section>

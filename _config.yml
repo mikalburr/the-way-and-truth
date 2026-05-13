@@ -1,0 +1,72 @@
+title: "The Way & Truth"
+tagline: "The uncorrupted teachings of Jesus Christ — Kingdom identity, warrior mindset, and the real Gospel."
+description: "Deep-dive biblical content on Kingdom mindset, the true teachings of Jesus, and Christian manhood. No religion. No compromise. The Way."
+url: "https://thewayandtruth.com"
+baseurl: ""
+author:
+  name: "Michael Burrage"
+  bio: "Marketing PhD candidate, man of The Way, and writer. Building on the rock."
+
+# Navigation
+nav_links:
+  - title: "Kingdom Mindset"
+    url: /category/kingdom-mindset/
+  - title: "True Teachings"
+    url: /category/true-teachings/
+  - title: "Warrior Mindset"
+    url: /category/warrior-mindset/
+  - title: "Start Here"
+    url: /start-here/
+
+# Monetization — flip enabled: true when AdSense approves
+adsense:
+  enabled: false
+  publisher_id: "ca-pub-XXXXXXXXXX"
+  slots:
+    header_banner: "XXXXXXXXXX"
+    in_article:    "XXXXXXXXXX"
+    sidebar:       "XXXXXXXXXX"
+    footer:        "XXXXXXXXXX"
+
+# Plugins
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-paginate
+
+paginate: 10
+paginate_path: "/page/:num/"
+
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Michael Burrage"
+      show_ads: true
+
+permalink: pretty
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - README.md
+  - content_planner.py
+  - "content/pipeline"
+  - content
+  - evidence-based-marketer
+  - site_strategy.md
+  - setup_monetization.md
+  - claude_code_build_prompt.md
+  - claude_code_plan_reviewer.md

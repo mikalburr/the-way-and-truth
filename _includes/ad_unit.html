@@ -1,0 +1,14 @@
+{% assign slot_id = site.adsense.slots[include.slot] %}
+{% if site.adsense.enabled %}
+<div class="ad-wrapper ad-{{ include.slot }}">
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="{{ site.adsense.publisher_id }}"
+       data-ad-slot="{{ slot_id }}"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+{% else %}
+<div class="ad-wrapper ad-{{ include.slot }} ad-placeholder" aria-hidden="true" style="height:0;overflow:hidden;"></div>
+{% endif %}
