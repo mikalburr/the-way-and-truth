@@ -1,13 +1,14 @@
 title: "The Way & Truth"
 tagline: "The uncorrupted teachings of Jesus Christ — Kingdom identity, warrior mindset, and the real Gospel."
 description: "Deep-dive biblical content on Kingdom mindset, the true teachings of Jesus, and Christian manhood. No religion. No compromise. The Way."
-url: "https://mikalburr.github.io"
-baseurl: "/the-way-and-truth"
+url: "https://thewayandtruth.com"
+baseurl: ""
+
 author:
   name: "Michael Burrage"
   bio: "Marketing PhD candidate, man of The Way, and writer. Building on the rock."
+  email: "miburrage@gmail.com"
 
-# Navigation
 nav_links:
   - title: "Kingdom Mindset"
     url: /category/kingdom-mindset/
@@ -18,17 +19,15 @@ nav_links:
   - title: "Start Here"
     url: /start-here/
 
-# Monetization — flip enabled: true when AdSense approves
 adsense:
   enabled: false
   publisher_id: "ca-pub-XXXXXXXXXX"
   slots:
     header_banner: "XXXXXXXXXX"
-    in_article:    "XXXXXXXXXX"
-    sidebar:       "XXXXXXXXXX"
-    footer:        "XXXXXXXXXX"
+    in_article: "XXXXXXXXXX"
+    sidebar: "XXXXXXXXXX"
+    footer: "XXXXXXXXXX"
 
-# Plugins
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
@@ -38,13 +37,11 @@ plugins:
 paginate: 10
 paginate_path: "/page/:num/"
 
-# Collections
 collections:
   pages:
     output: true
     permalink: /:name/
 
-# Defaults
 defaults:
   - scope:
       path: ""
@@ -53,20 +50,28 @@ defaults:
       layout: "post"
       author: "Michael Burrage"
       show_ads: true
+  - scope:
+      path: "_pages"
+      type: "pages"
+    values:
+      layout: "page"
 
-permalink: pretty
-
-# Exclude from build
 exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
   - README.md
   - content_planner.py
-  - "content/pipeline"
-  - content
-  - evidence-based-marketer
+  - content/
   - site_strategy.md
   - setup_monetization.md
   - claude_code_build_prompt.md
   - claude_code_plan_reviewer.md
+  - evidence-based-marketer/
+  - vendor/
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge

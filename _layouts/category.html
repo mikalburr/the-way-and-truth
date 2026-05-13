@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <div class="category-page">
   <header class="category-header">
     <h1>{{ page.title }}</h1>
@@ -10,31 +9,26 @@ layout: default
     {% endif %}
   </header>
 
-  {% assign category_posts = site.posts | where_exp: "post", "post.categories contains page.category_slug" %}
-
-  {% if category_posts.size > 0 %}
-  <ul class="post-list">
-    {% for post in category_posts limit: 10 %}
-    {% assign words = post.content | number_of_words %}
-    {% assign read_time = words | divided_by: 200 | plus: 1 %}
-    <li class="post-list-item">
-      <article>
-        <h2 class="post-list-title">
-          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        <div class="post-list-meta">
-          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
-          <span class="read-time">{{ read_time }} min read</span>
-        </div>
-        {% if post.excerpt %}
-        <p class="post-list-excerpt">{{ post.excerpt | strip_html | truncatewords: 40 }}</p>
-        {% endif %}
-        <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">Read more &rarr;</a>
-      </article>
-    </li>
+  {% assign cat_posts = site.posts | where_exp: "post", "post.categories contains page.category_slug" %}
+  {% if cat_posts.size > 0 %}
+  <div class="post-list">
+    {% for post in cat_posts limit:10 %}
+    <article class="post-card">
+      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+      <p class="post-meta">
+        {{ post.date | date: "%B %d, %Y" }}
+        &middot; {{ post.content | number_of_words | divided_by: 200 | plus: 1 }} min read
+      </p>
+      {% if post.description %}
+      <p class="post-excerpt">{{ post.description }}</p>
+      {% else %}
+      <p class="post-excerpt">{{ post.excerpt | strip_html | truncate: 160 }}</p>
+      {% endif %}
+      <a href="{{ post.url | relative_url }}" class="read-more">Read →</a>
+    </article>
     {% endfor %}
-  </ul>
+  </div>
   {% else %}
-  <p class="no-posts">No posts yet in this category. Check back soon.</p>
+  <p>Articles coming soon. Check back shortly.</p>
   {% endif %}
 </div>

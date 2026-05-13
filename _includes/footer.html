@@ -1,16 +1,14 @@
-<footer class="site-footer">
-  {% include ad_unit.html slot="footer" %}
+{% include ad_unit.html slot="footer" %}
 
+<footer class="site-footer">
   <div class="footer-inner">
     <p class="footer-tagline">{{ site.tagline }}</p>
-
     <nav class="footer-nav" aria-label="Footer navigation">
-      <a href="{{ '/about/' | prepend: site.baseurl }}">About</a>
-      <a href="{{ '/contact/' | prepend: site.baseurl }}">Contact</a>
-      <a href="{{ '/privacy/' | prepend: site.baseurl }}">Privacy</a>
-      <a href="{{ '/start-here/' | prepend: site.baseurl }}">Start Here</a>
+      <a href="{{ '/about/' | relative_url }}">About</a>
+      <a href="{{ '/contact/' | relative_url }}">Contact</a>
+      <a href="{{ '/privacy/' | relative_url }}">Privacy</a>
+      <a href="{{ '/start-here/' | relative_url }}">Start Here</a>
     </nav>
-
-    <p class="footer-copy">&copy; {{ 'now' | date: '%Y' }} {{ site.title }}. All rights reserved.</p>
+    <p class="footer-copy">&copy; {{ 'now' | date: '%Y' }} {{ site.title }}. Built on the rock.</p>
   </div>
 </footer>

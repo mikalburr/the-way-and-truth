@@ -6,15 +6,18 @@
 <body>
   {% include header.html %}
 
-  <main class="site-main">
-    <div class="content-area">
+  <main class="site-main{% if page.sidebar %} has-sidebar{% endif %}">
+    <div class="main-content">
       {{ content }}
     </div>
-    <!-- DEFERRED: sidebar ad unit — re-add conditional branch when a page sets sidebar: true -->
+    {% if page.sidebar %}
+    <aside class="sidebar">
+      {% include ad_unit.html slot="sidebar" %}
+    </aside>
+    {% endif %}
   </main>
 
   {% include footer.html %}
-
-  <script src="{{ '/assets/js/ad-inject.js' | prepend: site.baseurl }}"></script>
+  <script src="{{ '/assets/js/ad-inject.js' | relative_url }}" defer></script>
 </body>
 </html>

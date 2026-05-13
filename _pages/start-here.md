@@ -1,58 +1,46 @@
 ---
-title: "Start Here"
 layout: page
+title: "Start Here"
 permalink: /start-here/
-description: "New to The Way & Truth? Here's where to begin — an introduction to the three pillars and where to start based on what you're looking for."
+description: "New to The Way & Truth? This is where to begin — a guide to the three pillars and how to find what you need."
 ---
 
-If you just found this site, this is the right place to begin.
+Good. You're here. Let me make this simple.
 
-The Way & Truth is built around three pillars. Each one addresses a different question serious believers are asking. Here's what they are and where to start.
+This site exists to do one thing: give you the uncorrupted teachings of Jesus Christ, organized in a way that actually changes how you live. No filler, no religion-as-performance, no prosperity gospel. The real thing.
 
----
-
-## Pillar 1 — Kingdom Mindset
-
-**The question:** What does it mean to live as a citizen of the Kingdom of God right now?
-
-Most Christian teaching treats the Kingdom as something you inherit after death. Jesus taught something different — that the Kingdom is at hand, present, available to anyone who grasps it. Kingdom Mindset is about understanding that reality and living from it instead of toward it.
-
-**Start here if:** You feel like something is missing between what you believe and how you actually live. You're looking for a framework that's bigger than Sunday attendance.
-
-&rarr; [Kingdom Mindset articles](/category/kingdom-mindset/)
+There are three pillars. Each one is a distinct entry point. Start with the one that matches where you are right now.
 
 ---
 
-## Pillar 2 — True Teachings of Jesus
+## If you're asking "who am I?" start with Kingdom Mindset
 
-**The question:** What did Jesus actually say — and what did he mean?
+You've heard "you're a new creation" but it hasn't clicked yet. You know there's supposed to be something different about life in Christ but you can't name what it is. You feel like Christianity is mostly a list of things you're not supposed to do.
 
-This pillar takes the red letters seriously. Not filtered through denominational tradition, not softened for comfort, not read selectively. Verse-by-verse breakdowns of the Sermon on the Mount, the parables, the hard sayings, and the clear ones. If you've read the Gospels and wondered whether the version you were taught matches what's on the page, this is for you.
+The Kingdom Mindset pillar is built for you. It covers the present reality of the Kingdom of God, your identity in Christ as Jesus defined it, how to renew your mind with the truth (not just willpower), and why spiritual warfare is more practical than people make it sound.
 
-**Start here if:** You want to go deeper into scripture without someone else's tradition as the filter. You're willing to be challenged by what Jesus actually said.
-
-&rarr; [True Teachings articles](/category/true-teachings/)
+→ [Explore Kingdom Mindset](/category/kingdom-mindset/)
 
 ---
 
-## Pillar 3 — Warrior Mindset
+## If you want to know what Jesus actually said, start with True Teachings
 
-**The question:** What does it look like to be a strong, disciplined, faithful man in a Kingdom context?
+You've been in church for years and you realize you know a lot of Paul, a lot of Old Testament, and surprisingly little of the actual words of Jesus. Or you've walked away from institutional Christianity but you're not ready to walk away from Christ. Or you've just started reading the Gospels and you want someone to explain what you're reading.
 
-There is a false choice being sold to Christian men — be gentle or be strong. Jesus was both. This pillar is about reclaiming the biblical picture of manhood: bodily discipline, spiritual warfare, leadership, and the kind of resolve that doesn't apologize for itself.
+The True Teachings pillar goes verse by verse through the words of Jesus — the Sermon on the Mount, the parables, the confrontations with the Pharisees — with plain language, no tradition added, and no soft-pedaling of the hard parts.
 
-**Start here if:** You're a man who takes faith seriously and wants to know what faithfulness looks like in daily practice — in how you train, pray, lead, and fight.
-
-&rarr; [Warrior Mindset articles](/category/warrior-mindset/)
+→ [Explore True Teachings](/category/true-teachings/)
 
 ---
 
-## Where to go first
+## If you want to live it, not just believe it, start with Warrior Mindset
 
-**If you're new to all of this:** Start with [What Is Kingdom Mindset?](/kingdom-mindset/2026/05/12/what-is-kingdom-mindset/) — it lays the foundation everything else builds on.
+You're done with passive faith. You want to know what a man who takes the Kingdom seriously actually looks like — in his body, his discipline, his relationships, his leadership. You want to know how physical training connects to spiritual formation. You want the parts of the Gospel that cost something.
 
-**If you want to go straight to scripture:** Start with [What Jesus Actually Said](/true-teachings/2026/05/12/what-jesus-actually-said/) — a breakdown of the Sermon on the Mount that doesn't assume you've heard it before.
+The Warrior Mindset pillar covers biblical manhood, spiritual warfare in practice, the discipline of the body as stewardship, fasting, and what it means to lead from Kingdom identity rather than fear or ego.
 
-**If you're already convinced and want to act:** Start with [Christian Warrior Mindset](/warrior-mindset/2026/05/12/christian-warrior-mindset/) — the biblical case for why strength and faithfulness aren't opposites.
+→ [Explore Warrior Mindset](/category/warrior-mindset/)
 
-Go deep. That's what this site is for.
+---
+
+Not sure? Start with this: **[What Is Kingdom Mindset?](/2026/05/12/what-is-kingdom-mindset/)** — it covers the single concept that changes how everything else on this site makes sense.

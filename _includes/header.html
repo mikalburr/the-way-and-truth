@@ -1,21 +1,19 @@
 <header class="site-header">
-  <nav class="nav-container">
-    <a class="site-title" href="{{ '/' | prepend: site.baseurl }}">{{ site.title }}</a>
+  <div class="header-inner">
+    <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
 
-    <!-- Pure CSS hamburger toggle — no JS -->
     <input type="checkbox" id="nav-toggle" class="nav-toggle" aria-hidden="true">
     <label for="nav-toggle" class="nav-toggle-label" aria-label="Toggle navigation">
-      <span></span>
-      <span></span>
-      <span></span>
+      <span></span><span></span><span></span>
     </label>
 
-    <ul class="nav-menu">
+    <nav class="nav-menu" aria-label="Main navigation">
       {% for item in site.nav_links %}
-      <li class="nav-item{% if page.url contains item.url %} active{% endif %}">
-        <a href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
-      </li>
+      <a href="{{ item.url | relative_url }}"
+         class="nav-link{% if page.url contains item.url %} active{% endif %}">
+        {{ item.title }}
+      </a>
       {% endfor %}
-    </ul>
-  </nav>
+    </nav>
+  </div>
 </header>
