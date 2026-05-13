@@ -67,7 +67,17 @@ layout: default
 
   {% include newsletter-cta.html %}
 
-  {% assign related = site.posts | where_exp: "p", "p.categories[0] == page.categories[0] and p.url != page.url" | limit: 3 %}
+  {% assign cat_slug = page.categories | first %}
+  {% assign related = "" | split: "" %}
+  {% for p in site.posts %}
+    {% unless p.url == page.url %}
+      {% if p.categories contains cat_slug %}
+        {% if related.size < 3 %}
+          {% assign related = related | push: p %}
+        {% endif %}
+      {% endif %}
+    {% endunless %}
+  {% endfor %}
   {% if related.size > 0 %}
   <section class="related-posts">
     <h3>You Might Also Like</h3>
