@@ -55,6 +55,10 @@ plugins:
 paginate: 10
 paginate_path: "/page/:num/"
 
+# Post URL pattern — date-based without category prefix.
+# Matches the format used by all internal links across the site.
+permalink: /:year/:month/:day/:title/
+
 collections:
   pages:
     output: true

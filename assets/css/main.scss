@@ -505,6 +505,15 @@ em { font-style: italic; }
   font-size: 0.875rem;
   font-style: italic;
 }
+.category-pillar {
+  background: rgba(201,168,76,.08);
+  border-left: 3px solid var(--gold);
+  padding: .75rem 1rem;
+  margin: 1rem 0 1.5rem;
+  border-radius: 0 4px 4px 0;
+  font-size: 0.95rem;
+}
+.category-pillar a { font-weight: 700; }
 
 /* --- Book Card --- */
 .book-card {

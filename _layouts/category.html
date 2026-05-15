@@ -7,6 +7,9 @@ layout: default
     {% if page.description %}
     <p class="category-description">{{ page.description }}</p>
     {% endif %}
+    {% if page.pillar_guide %}
+    <p class="category-pillar"><strong>New here?</strong> Start with the <a href="{{ page.pillar_guide | relative_url }}">{{ page.title }} Complete Guide →</a></p>
+    {% endif %}
   </header>
 
   {% assign cat_posts = site.posts | where_exp: "post", "post.categories contains page.category_slug" %}

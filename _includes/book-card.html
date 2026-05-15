@@ -4,11 +4,13 @@
     <p class="book-card__author">by {{ include.author }}</p>
     {% if include.description %}<p class="book-card__desc">{{ include.description }}</p>{% endif %}
     {% if include.verdict %}<p class="book-card__verdict"><strong>Verdict:</strong> {{ include.verdict }}</p>{% endif %}
+    {% if include.asin and include.asin != "" %}
     <a class="book-card__btn"
        href="https://www.amazon.com/dp/{{ include.asin }}?tag={{ site.affiliate.amazon_tag }}"
        target="_blank" rel="noopener sponsored">
       View on Amazon →
     </a>
+    {% endif %}
     {% if include.logos_url %}
     <a class="book-card__btn book-card__btn--logos"
        href="{{ include.logos_url }}?ref={{ site.affiliate.logos_tag }}"

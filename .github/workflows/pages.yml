@@ -4,6 +4,10 @@ on:
   push:
     branches: ["main"]
   workflow_dispatch:
+  schedule:
+    # Daily at 08:00 UTC (~4am EST / 3am EDT) — rebuilds site so future-dated
+    # posts auto-publish on their scheduled date without manual intervention.
+    - cron: "0 8 * * *"
 
 permissions:
   contents: read
