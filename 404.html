@@ -2,13 +2,30 @@
 layout: default
 title: "Page Not Found"
 permalink: /404.html
+sitemap: false
 ---
 
-<div class="page" style="text-align:center; padding: 4rem 1rem;">
-  <h1 style="font-size:5rem; margin-bottom:1rem; color:var(--gold);">404</h1>
-  <h2 style="margin-top:0;">Page Not Found</h2>
-  <p style="color:var(--muted); margin-bottom:2rem;">
-    The page you're looking for doesn't exist or has moved.
+<div class="page" style="text-align:center; padding: 4rem 1rem; max-width: 680px; margin: 0 auto;">
+  <h1 style="font-size:5rem; margin-bottom:0.25rem; color:var(--gold);">404</h1>
+  <h2 style="margin-top:0;">This Page Doesn't Exist</h2>
+  <p style="color:var(--muted); margin-bottom:2.5rem; font-size: 1.1rem;">
+    The page you're looking for has moved, been renamed, or never existed.<br>
+    Here are the best places to go instead.
   </p>
-  <a class="cta-button" href="{{ '/' | prepend: site.baseurl }}">Back to Home</a>
+
+  <div style="text-align: left; max-width: 480px; margin: 0 auto;">
+    <p style="margin-bottom: 1rem;"><strong>New here?</strong> → <a href="{{ '/start-here/' | relative_url }}">Start Here</a></p>
+    <p style="margin-bottom: 1rem;"><strong>Looking for book recommendations?</strong> → <a href="{{ '/resources/' | relative_url }}">Recommended Resources</a></p>
+    <p style="margin-bottom: 1rem;"><strong>Want the free Kingdom Mindset Guide?</strong> → <a href="{{ '/first-7-days/' | relative_url }}">First 7 Days Free</a></p>
+    <p style="margin-bottom: 1rem;"><strong>Browse by pillar:</strong></p>
+    <ul style="list-style: none; padding: 0; margin-left: 1rem;">
+      <li style="padding: 0.25rem 0;">→ <a href="{{ '/category/kingdom-mindset/' | relative_url }}">Kingdom Mindset</a></li>
+      <li style="padding: 0.25rem 0;">→ <a href="{{ '/category/true-teachings/' | relative_url }}">True Teachings</a></li>
+      <li style="padding: 0.25rem 0;">→ <a href="{{ '/category/warrior-mindset/' | relative_url }}">Warrior Mindset</a></li>
+    </ul>
+  </div>
+
+  <p style="margin-top: 3rem;">
+    <a class="cta-button" href="{{ '/' | relative_url }}">Back to Home</a>
+  </p>
 </div>

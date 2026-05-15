@@ -75,6 +75,54 @@ Books that build biblical masculinity — identity, discipline, authority, and w
 
 ---
 
+## Books on Prayer
+
+The books that move you from praying when you remember to praying as a structural discipline.
+
+{% include book-card.html
+  title="A Praying Life"
+  author="Paul Miller"
+  asin="1612914349"
+  description="The most pastorally honest book on prayer in print — for the man who has tried to pray and feels like a failure, and shows that the failure is not what he thinks it is."
+  verdict="The doorway most men need before any prayer framework will hold."
+%}
+
+{% include book-card.html
+  title="Power Through Prayer"
+  author="E.M. Bounds"
+  asin="088368416X"
+  description="Short, dense, and devastating in its clarity about what serious prayer actually requires. Bounds wrote in the 1800s; the substance has not aged a day."
+  verdict="Recalibrates your understanding of how seriously prayer was taken by men who did extraordinary Kingdom work."
+%}
+
+→ [Read the full Prayer reading list](/2026/05/14/best-books-on-prayer/)
+
+---
+
+## Books on Spiritual Warfare
+
+Treatments of the spiritual battle that are neither sensationalist nor dismissive.
+
+{% include book-card.html
+  title="The Screwtape Letters"
+  author="C.S. Lewis"
+  asin="0060652934"
+  description="Letters from a senior demon to a junior demon on derailing a Christian. Lewis treats the spiritual battle with literary skill and theological seriousness."
+  verdict="Start here. The best entry point for understanding enemy strategy without losing your mind."
+%}
+
+{% include book-card.html
+  title="3 Crucial Questions About Spiritual Warfare"
+  author="Clinton E. Arnold"
+  asin="0801057841"
+  description="A New Testament scholar's careful, exegetically grounded treatment of the principalities, demonization, and practical engagement."
+  verdict="Essential theological ballast against the excesses of the genre."
+%}
+
+→ [Read the full Spiritual Warfare reading list](/2026/05/14/best-books-on-spiritual-warfare/)
+
+---
+
 ## Study Bibles
 
 The best tools for men who want to study Scripture seriously — with honest assessments of what each one actually delivers.
