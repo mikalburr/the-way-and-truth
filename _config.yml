@@ -16,6 +16,8 @@ nav_links:
     url: /category/true-teachings/
   - title: "Warrior Mindset"
     url: /category/warrior-mindset/
+  - title: "Resources"
+    url: /resources/
   - title: "Start Here"
     url: /start-here/
 
@@ -31,6 +33,12 @@ adsense:
 google_analytics:
   enabled: false
   measurement_id: "G-XXXXXXXXXX"
+
+affiliate:
+  amazon_tag: "YOURTAG-20"          # Replace after Amazon Associates signup
+  logos_tag: "YOURLOGOSTAG"          # Replace after Logos affiliate signup
+  gumroad_product: "YOURPRODUCTID"   # Replace after Gumroad upload
+  enabled: true
 
 locale: "en_US"
 timezone: "America/New_York"

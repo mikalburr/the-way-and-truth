@@ -33,6 +33,12 @@ This site does not sell, trade, or transfer your personal information to third p
 
 This site may link to external websites. We are not responsible for the privacy practices of those sites.
 
+## Affiliate Disclosure {#affiliate-disclosure}
+
+This site participates in affiliate programs, including the **Amazon Associates Program** and the **Logos Bible Software Affiliate Program**. When you click an affiliate link and make a purchase, we may earn a small commission at no additional cost to you. Affiliate links are marked with `rel="sponsored"` and are clearly disclosed on any page where they appear.
+
+We only recommend books and resources we have personally read and believe to be genuinely valuable. Affiliate relationships do not influence editorial decisions — if a book is not worth reading, it does not appear on this site regardless of commission potential.
+
 ## Contact
 
 For privacy-related questions: [miburrage@gmail.com](mailto:miburrage@gmail.com)

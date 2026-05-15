@@ -44,3 +44,11 @@ The Warrior Mindset pillar covers biblical manhood, spiritual warfare in practic
 ---
 
 Not sure? Start with this: **[What Is Kingdom Mindset?](/2026/05/12/what-is-kingdom-mindset/)** — it covers the single concept that changes how everything else on this site makes sense.
+
+---
+
+## Ready to Go Deeper?
+
+Every book, Bible, and resource recommended on this site is curated in one place.
+
+→ **[Explore Recommended Resources](/resources/)**
