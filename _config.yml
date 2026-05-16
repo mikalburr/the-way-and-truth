@@ -91,6 +91,8 @@ exclude:
   - claude_code_plan_reviewer.md
   - evidence-based-marketer/
   - vendor/
+  - assets/products/    # paid product source files — convert to PDF locally, do NOT publish
+  - scripts/            # build scripts — not for the live site
 
 markdown: kramdown
 highlighter: rouge
